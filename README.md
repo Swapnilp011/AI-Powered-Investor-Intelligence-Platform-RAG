@@ -1,6 +1,5 @@
 # AI-Powered Investor Intelligence Platform (Self-Hosted / Local Architecture)
 
-<img width="1906" height="945" alt="RAGproject" src="https://github.com/user-attachments/assets/5024af81-e07e-47ed-a4ab-a40c439522f2" />
 
 This repository contains the Python backend for an **AI-powered Investor Intelligence Platform**, including PDF document ingestion, PyMuPDF4LLM markdown parsing, semantic chunking, **Google Gemini API / Ollama / OpenAI** LLM integration, **ChromaDB** vector storage, **Microsoft SQL Server (SSMS)** KPI storage, and an interactive FastAPI web dashboard.
 
