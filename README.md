@@ -87,10 +87,14 @@ Before running this project, ensure your environment meets the following require
 ### Step 1: Clone Repository & Create Virtual Environment
 
 Open PowerShell or Terminal in your project directory:
-
+    
 ```powershell
 # 1. Create a Python virtual environment
 python -m venv .venv
+
+# If venv is create then run .
+uv init
+uv venv
 
 # 2. Activate the virtual environment
 # On Windows PowerShell:
