@@ -2,6 +2,8 @@
 
 An enterprise-grade **AI Investor Intelligence Platform** that ingests corporate annual reports (10-K/10-Q PDFs), performs high-fidelity Markdown structure parsing, generates vector embeddings stored in **ChromaDB**, extracts key financial metrics & qualitative insights via **Google Gemini API**, stores structured financial data in **Microsoft SQL Server (SSMS)**, and provides an interactive web dashboard with a RAG-powered chatbot.
 
+> 📘 **Full Master Documentation**: For comprehensive architecture, database queries, and advanced troubleshooting, see [PROJECT_MASTER_DOCUMENTATION.md](file:///d:/Project/RAG/AI-Powered-Investor-Intelligence-Platform/PROJECT_MASTER_DOCUMENTATION.md).
+
 ---
 
 ## 🏗️ Technical Architecture
