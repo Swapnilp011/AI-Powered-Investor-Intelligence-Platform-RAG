@@ -108,3 +108,68 @@ Access the interactive dashboard UI at `http://localhost:8000`.
 * `GET /api/metrics` — Returns extracted financial KPI metrics
 * `POST /api/upload` — Uploads PDF report and runs full ingestion pipeline
 * `POST /api/chat` — Contextual AI Chat Q&A endpoint
+
+---
+
+## How to View Data in SSMS (SQL Server Management Studio)
+
+Follow these steps to inspect the extracted financial metrics directly inside Microsoft SQL Server Management Studio:
+
+### Step 1: Connect to SQL Server
+1. Open **SQL Server Management Studio (SSMS)**.
+2. In the **Connect to Server** dialog:
+   - **Server type**: Database Engine
+   - **Server name**: `localhost\SQLEXPRESS2025` (or your local server instance)
+   - **Authentication**: Windows Authentication (or SQL Server Authentication)
+3. Click **Connect**.
+
+### Step 2: Open Query Window
+Click **New Query** in the top toolbar.
+
+### Step 3: Run Useful SQL Queries
+
+#### 1. View All Extracted Metrics (Latest per Company)
+```sql
+USE investor_intelligence;
+GO
+
+SELECT 
+    id,
+    company,
+    year,
+    revenue,
+    net_income,
+    operating_income,
+    cash_flow,
+    total_assets,
+    total_liabilities,
+    created_at
+FROM financial_metrics
+ORDER BY company, year DESC;
+GO
+```
+
+#### 2. Inspect Top Risk Factors & Growth Drivers
+```sql
+USE investor_intelligence;
+GO
+
+SELECT 
+    company,
+    year,
+    risk_factors,
+    growth_drivers
+FROM financial_metrics;
+GO
+```
+
+#### 3. View Full Detailed Record for a Specific Company (e.g. Flipkart or Tata Motors)
+```sql
+USE investor_intelligence;
+GO
+
+SELECT * 
+FROM financial_metrics
+WHERE company LIKE '%Flipkart%';
+GO
+```

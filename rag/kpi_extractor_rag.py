@@ -1,14 +1,15 @@
 import os
 from dotenv import load_dotenv
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 from llm.llm_client import get_structured_completion
 from vectorstore.chroma_store import ChromaVectorStore, Retriever
 
 load_dotenv()
 
-
 class FinancialMetrics(BaseModel):
+    model_config = ConfigDict(populate_by_name=True)
+
     revenue: str | int | None = Field(None, alias="Revenue")
     net_income: str | int | None = Field(None, alias="Net Income")
     operating_income: str | int | None = Field(None, alias="Operating Income")

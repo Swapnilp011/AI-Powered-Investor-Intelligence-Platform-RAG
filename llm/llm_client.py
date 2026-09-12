@@ -17,7 +17,7 @@ def get_llm_provider() -> str:
 class RateLimitedGeminiEmbeddings:
     """
     Wrapper around GoogleGenerativeAIEmbeddings with batching, rate-limiting retry logic,
-    and guaranteed output length matching len(texts).
+    pacing delays, and guaranteed output length matching len(texts).
     """
     def __init__(self, model: str, google_api_key: str):
         from langchain_google_genai import GoogleGenerativeAIEmbeddings
@@ -27,14 +27,14 @@ class RateLimitedGeminiEmbeddings:
         )
 
     def embed_query(self, text: str) -> list[float]:
-        for attempt in range(6):
+        for attempt in range(5):
             try:
                 return self._embeddings.embed_query(text)
             except Exception as e:
                 err_str = str(e)
                 if "RESOURCE_EXHAUSTED" in err_str or "429" in err_str or "Quota" in err_str:
-                    sleep_sec = 5 * (attempt + 1)
-                    print(f"[rate-limit] Gemini embedding rate limit hit. Waiting {sleep_sec}s...")
+                    sleep_sec = 3 * (attempt + 1)
+                    print(f"[rate-limit] Gemini embedding query rate limit hit. Waiting {sleep_sec}s...")
                     time.sleep(sleep_sec)
                 else:
                     raise e
@@ -45,12 +45,15 @@ class RateLimitedGeminiEmbeddings:
             return []
 
         results = []
-        batch_size = 10
+        batch_size = 20
+        total_batches = (len(texts) + batch_size - 1) // batch_size
+
         for i in range(0, len(texts), batch_size):
             batch = texts[i : i + batch_size]
+            batch_num = (i // batch_size) + 1
             batch_success = False
-            
-            for attempt in range(6):
+
+            for attempt in range(5):
                 try:
                     batch_embeddings = self._embeddings.embed_documents(batch)
                     if len(batch_embeddings) == len(batch):
@@ -60,15 +63,15 @@ class RateLimitedGeminiEmbeddings:
                 except Exception as e:
                     err_str = str(e)
                     if "RESOURCE_EXHAUSTED" in err_str or "429" in err_str or "Quota" in err_str:
-                        sleep_sec = 6 * (attempt + 1)
-                        print(f"[rate-limit] Gemini embedding rate limit hit (429). Retrying batch {i//batch_size + 1} in {sleep_sec}s...")
+                        sleep_sec = 4 * (attempt + 1)
+                        print(f"[rate-limit] Gemini embedding rate limit hit (429) on batch {batch_num}/{total_batches}. Retrying in {sleep_sec}s...")
                         time.sleep(sleep_sec)
                     else:
                         print(f"[warning] Embedding batch failed: {e}")
                         time.sleep(2)
 
             if not batch_success:
-                # If batch failed, fallback to item-by-item processing
+                # If batch failed after retries, fallback to item-by-item processing
                 for text_item in batch:
                     item_success = False
                     for attempt in range(3):
@@ -78,13 +81,14 @@ class RateLimitedGeminiEmbeddings:
                             item_success = True
                             break
                         except Exception:
-                            time.sleep(3)
+                            time.sleep(2)
                     if not item_success:
-                        # Fallback zero vector to guarantee len(results) == len(texts)
                         fallback_vec = results[-1] if results else [0.0] * 3072
                         results.append(fallback_vec)
             
-            time.sleep(0.5)
+            # Pacing pause to comply with Google AI Studio 15 RPM free-tier limit
+            if i + batch_size < len(texts):
+                time.sleep(1.2)
 
         # Guarantee exact length match
         while len(results) < len(texts):

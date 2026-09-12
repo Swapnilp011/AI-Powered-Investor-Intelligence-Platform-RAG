@@ -14,13 +14,10 @@ from routes.chat import router as chat_router
 
 load_dotenv()
 
-app = FastAPI(
-    title="AI-Powered Investor Intelligence Platform (Local Architecture)"
-)
+from contextlib import asynccontextmanager
 
-
-@app.on_event("startup")
-def startup_event():
+@asynccontextmanager
+async def lifespan(app: FastAPI):
     """
     Initialize database and vector index on app startup.
     """
@@ -34,6 +31,13 @@ def startup_event():
         create_index()
     except Exception as e:
         print(f"Warning: Could not initialize ChromaDB vector index: {e}")
+    
+    yield
+
+app = FastAPI(
+    title="AI-Powered Investor Intelligence Platform (Local Architecture)",
+    lifespan=lifespan
+)
 
 
 app.include_router(
@@ -57,6 +61,12 @@ app.mount(
 templates = Jinja2Templates(
     directory="templates"
 )
+
+
+@app.get("/favicon.ico", include_in_schema=False)
+def favicon():
+    from fastapi.responses import Response
+    return Response(status_code=204)
 
 
 @app.get("/")

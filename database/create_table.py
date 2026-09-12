@@ -1,4 +1,10 @@
 import os
+import sys
+from pathlib import Path
+
+# Ensure root directory is on sys.path for direct script execution
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from sqlalchemy import text
 from database.sql_server import get_engine, create_database
 

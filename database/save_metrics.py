@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from sqlalchemy import text
 from database.sql_server import get_engine
 
@@ -18,7 +22,11 @@ def save_metrics(
     try:
         engine = get_engine()
 
-        query = """
+        delete_query = """
+        DELETE FROM financial_metrics WHERE company = :company AND year = :year
+        """
+
+        insert_query = """
         INSERT INTO financial_metrics (
             company,
             year,
@@ -45,34 +53,48 @@ def save_metrics(
         )
         """
 
-        risk_factors = metrics.get("Top Risk Factors") or metrics.get("risk_factors") or []
-        growth_drivers = metrics.get("Top Growth Drivers") or metrics.get("growth_drivers") or []
+        def get_val(key1, key2):
+            v = metrics.get(key1)
+            if v is None:
+                v = metrics.get(key2)
+            if v is None or v == "None":
+                return ""
+            return str(v)
+
+        risk_factors = metrics.get("Top Risk Factors")
+        if risk_factors is None:
+            risk_factors = metrics.get("risk_factors") or []
+
+        growth_drivers = metrics.get("Top Growth Drivers")
+        if growth_drivers is None:
+            growth_drivers = metrics.get("growth_drivers") or []
 
         if isinstance(risk_factors, list):
             risk_str = "\n".join(str(r) for r in risk_factors)
         else:
-            risk_str = str(risk_factors)
+            risk_str = str(risk_factors) if risk_factors else ""
 
         if isinstance(growth_drivers, list):
             growth_str = "\n".join(str(g) for g in growth_drivers)
         else:
-            growth_str = str(growth_drivers)
+            growth_str = str(growth_drivers) if growth_drivers else ""
 
         params = {
             "company": str(company),
             "year": str(year),
-            "revenue": str(metrics.get("Revenue") or metrics.get("revenue") or ""),
-            "net_income": str(metrics.get("Net Income") or metrics.get("net_income") or ""),
-            "operating_income": str(metrics.get("Operating Income") or metrics.get("operating_income") or ""),
-            "cash_flow": str(metrics.get("Cash Flow from Operating Activities") or metrics.get("cash_flow") or ""),
-            "total_assets": str(metrics.get("Total Assets") or metrics.get("total_assets") or ""),
-            "total_liabilities": str(metrics.get("Total Liabilities") or metrics.get("total_liabilities") or ""),
+            "revenue": get_val("Revenue", "revenue"),
+            "net_income": get_val("Net Income", "net_income"),
+            "operating_income": get_val("Operating Income", "operating_income"),
+            "cash_flow": get_val("Cash Flow from Operating Activities", "cash_flow"),
+            "total_assets": get_val("Total Assets", "total_assets"),
+            "total_liabilities": get_val("Total Liabilities", "total_liabilities"),
             "risk_factors": risk_str,
             "growth_drivers": growth_str
         }
 
         with engine.begin() as connection:
-            connection.execute(text(query), params)
+            connection.execute(text(delete_query), {"company": str(company), "year": str(year)})
+            connection.execute(text(insert_query), params)
 
         print(f"Successfully saved metrics for {company} {year}.")
     except Exception as exc:
