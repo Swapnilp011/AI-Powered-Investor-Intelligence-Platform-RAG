@@ -1,128 +1,111 @@
-# AI-Powered Investor Intelligence Platform
+# AI-Powered Investor Intelligence Platform (Self-Hosted / Local Architecture)
 
 <img width="1906" height="945" alt="RAGproject" src="https://github.com/user-attachments/assets/5024af81-e07e-47ed-a4ab-a40c439522f2" />
 
-This repository contains the Python backend for an AI-powered Investor Intelligence Platform, including document ingestion, semantic search, KPI extraction, Azure AI Search integration, Azure OpenAI integration, and PostgreSQL-based KPI storage.
+This repository contains the Python backend for an **AI-powered Investor Intelligence Platform**, including PDF document ingestion, PyMuPDF4LLM markdown parsing, semantic chunking, **Google Gemini API / Ollama / OpenAI** LLM integration, **ChromaDB** vector storage, **Microsoft SQL Server (SSMS)** KPI storage, and an interactive FastAPI web dashboard.
+
+---
+
+## Technical Architecture
+
+* **LLM & Embeddings**: Google Gemini API (`gemini-2.5-flash` / `text-embedding-004`) with multi-provider support for Ollama (`llama3` / `nomic-embed-text`) and OpenAI (`gpt-4o`).
+* **Vector Store**: ChromaDB (local persistent vector store with HNSW indexing and metadata filtering).
+* **Database**: Local Microsoft SQL Server (SSMS) via SQLAlchemy + `pyodbc` / `pymssql`.
+* **Backend API**: FastAPI & Uvicorn.
+* **Document Ingestion**: PyMuPDF4LLM + LangChain `SemanticChunker`.
+* **Package Manager**: UV (`astral.sh/uv`).
+
+---
 
 ## Prerequisites
 
 * Python 3.12+
-* UV Package Manager
+* UV Package Manager (`astral.sh/uv`)
+* Local Microsoft SQL Server / SSMS (SQL Server Express or Developer edition)
+* Google Gemini API key (or local Ollama instance / OpenAI key)
 
-## Setup
+---
 
-### 1. Install UV
+## Setup & Running Locally
 
-#### Windows
+### 1. Install UV Package Manager
 
-```bash
+#### Windows (PowerShell)
+```powershell
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-#### macOS/Linux
-
+#### macOS / Linux
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Verify installation:
+---
+
+### 2. Environment Configuration
+
+Copy the sample environment file `.env.example` to `.env`:
 
 ```bash
-uv --version
+copy .env.example .env   # Windows
+# or: cp .env.example .env (Linux/macOS)
+```
+
+Configure your credentials in `.env`:
+```env
+# LLM Provider Configuration (gemini / ollama / openai)
+LLM_PROVIDER=gemini
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Local SQL Server / SSMS Credentials
+SQLSERVER_HOST=localhost
+SQLSERVER_PORT=1433
+SQLSERVER_DATABASE=investor_intelligence
+SQLSERVER_USER=sa
+SQLSERVER_PASSWORD=YourPassword123!
+SQLSERVER_DRIVER=ODBC Driver 17 for SQL Server
 ```
 
 ---
 
-### 2. Create Virtual Environment
+### 3. Create Virtual Environment & Install Dependencies
 
 ```bash
 uv venv
-```
+.venv\Scripts\activate      # Windows PowerShell/CMD
+# source .venv/bin/activate # Linux/macOS
 
----
-
-### 3. Activate Virtual Environment
-
-#### Windows
-
-```bash
-.venv\Scripts\activate
-```
-
-#### macOS/Linux
-
-```bash
-source .venv/bin/activate
-```
-
----
-
-### 4. Install Dependencies
-
-```bash
 uv pip install -r requirements.txt
 ```
 
 ---
 
-### 5. Configure Environment Variables
-
-Create a `.env` file and configure all required environment variables before running the application.
-
----
-
-### 6. Run the Application
+### 4. Run the Application
 
 ```bash
 python app.py
 ```
 
+Access the interactive dashboard UI at `http://localhost:8000`.
+
 ---
 
 ## Project Features
 
-* Annual Report Upload & Processing
-* KPI Extraction using Azure OpenAI
-* Azure AI Search Integration
-* Semantic Search & Retrieval
-* RAG-based Chatbot
-* PostgreSQL KPI Storage
-* Investor Insights Dashboard
-* Production-Grade Modular Architecture
+* **Annual Report Upload & Ingestion**: Drag-and-drop 10-K/10-Q PDF reports.
+* **PDF to Markdown Parsing**: High-fidelity structure extraction using `pymupdf4llm`.
+* **Semantic Document Chunking**: Distance-based semantic text splitting.
+* **ChromaDB Vector Indexing**: Local persistent vector search with metadata filtering (`company` and `year`).
+* **KPI Extraction**: Automated extraction of Revenue, Net Income, Operating Income, Cash Flow, Assets, Liabilities, Risks, and Growth Drivers.
+* **Local SQL Server Persistence**: Deduplicated metric storage using SQL Server window functions.
+* **Interactive AI Chatbot**: Contextual RAG Q&A over ingested corporate filings.
 
 ---
 
-## Technology Stack
+## API Endpoints
 
-### Backend
-
-* FastAPI
-* Python 3.12
-
-### AI Services
-
-* Azure OpenAI
-* Azure AI Search
-
-### Database
-
-* Azure PostgreSQL
-
-### Deployment
-
-* Docker
-* Azure Container Registry (ACR)
-* Azure Kubernetes Service (AKS)
-
-### Package Management
-
-* UV
-
----
-
-## Notes
-
-* Ensure all Azure resources are configured before running the application.
-* Verify that PostgreSQL firewall rules allow access from the application.
-* Store secrets in environment variables and never commit `.env` files to source control.
-* For production deployments, use Azure Key Vault or Kubernetes Secrets for secret management.
+* `GET /` — Renders Dashboard UI
+* `GET /health` — Health check endpoint
+* `GET /api/metrics` — Returns extracted financial KPI metrics
+* `POST /api/upload` — Uploads PDF report and runs full ingestion pipeline
+* `POST /api/chat` — Contextual AI Chat Q&A endpoint

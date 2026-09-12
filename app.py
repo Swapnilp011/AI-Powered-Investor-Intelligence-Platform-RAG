@@ -1,12 +1,12 @@
+import os
+from dotenv import load_dotenv
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-import os
-from dotenv import load_dotenv
 
 from database.metrics import get_metrics
-from database.postgres_sql import create_database
+from database.sql_server import create_database
 from database.create_table import create_tables
 from vectorstore.create_index import create_index
 from routes.ingestion import router as ingestion_router
@@ -15,7 +15,7 @@ from routes.chat import router as chat_router
 load_dotenv()
 
 app = FastAPI(
-    title="AI-Powered Investor Intelligence Platform"
+    title="AI-Powered Investor Intelligence Platform (Local Architecture)"
 )
 
 
@@ -24,17 +24,17 @@ def startup_event():
     """
     Initialize database and vector index on app startup.
     """
-    create_database()
-    create_tables()
-    
     try:
-        create_index(
-            endpoint=os.getenv("AZURE_SEARCH_ENDPOINT"),
-            api_key=os.getenv("AZURE_SEARCH_API_KEY"),
-            index_name=os.getenv("AZURE_SEARCH_INDEX_NAME")
-        )
+        create_database()
+        create_tables()
     except Exception as e:
-        print(f"Warning: Could not create vector index: {e}")
+        print(f"Warning: Could not initialize database/tables automatically: {e}")
+
+    try:
+        create_index()
+    except Exception as e:
+        print(f"Warning: Could not initialize ChromaDB vector index: {e}")
+
 
 app.include_router(
     ingestion_router,
@@ -64,7 +64,11 @@ def dashboard(request: Request):
     """
     Render dashboard UI.
     """
-    metrics = get_metrics()
+    try:
+        metrics = get_metrics()
+    except Exception as exc:
+        print(f"Warning: Could not fetch metrics for dashboard: {exc}")
+        metrics = []
 
     return templates.TemplateResponse(
         request=request,
@@ -80,22 +84,36 @@ def dashboard(request: Request):
 @app.get("/api/metrics")
 def metrics():
     """
-    Return KPI metrics.
+    Return KPI metrics as JSON.
     """
-    return JSONResponse(
-        content=get_metrics()
-    )
+    try:
+        data = get_metrics()
+    except Exception as exc:
+        print(f"Warning: Could not fetch metrics API: {exc}")
+        data = []
+
+    return JSONResponse(content=data)
 
 
 @app.get("/health")
 def health():
     return {
-        "status": "healthy"
+        "status": "healthy",
+        "provider": os.getenv("LLM_PROVIDER", "gemini"),
+        "vector_store": "ChromaDB",
+        "database": os.getenv("DB_TYPE", "sqlserver")
     }
 
 
 if __name__ == "__main__":
     import uvicorn
+
+    print("\n" + "=" * 60)
+    print("🚀 Application starting!")
+    print("Open the platform in your browser at:")
+    print("👉 http://localhost:8000")
+    print("👉 http://127.0.0.1:8000")
+    print("=" * 60 + "\n")
 
     uvicorn.run(
         app,

@@ -1,13 +1,15 @@
 from sqlalchemy import text
-
-from database.postgres_sql import get_engine
+from database.sql_server import get_engine
 
 
 def get_metrics():
+    """
+    Fetch deduplicated financial metrics from SQL Server.
+    """
     engine = get_engine()
 
     query = """
-    SELECT *
+    SELECT id, company, year, revenue, net_income, operating_income, cash_flow, total_assets, total_liabilities, risk_factors, growth_drivers, created_at
     FROM (
         SELECT *,
                ROW_NUMBER() OVER (

@@ -1,81 +1,30 @@
-from dotenv import load_dotenv
 import os
-
-from azure.core.credentials import AzureKeyCredential
-from azure.search.documents.indexes import SearchIndexClient
-from azure.search.documents.indexes.models import (
-    HnswAlgorithmConfiguration,
-    SearchField,
-    SearchFieldDataType,
-    SearchIndex,
-    SimpleField,
-    VectorSearch,
-    VectorSearchProfile
-)
+from dotenv import load_dotenv
+import chromadb
 
 load_dotenv()
 
 
 def create_index(
-    endpoint: str,
-    api_key: str,
-    index_name: str,
-    embedding_dimensions: int = 1536
+    persist_directory: str | None = None,
+    collection_name: str | None = None
 ) -> None:
     """
-    Create Azure AI Search index.
+    Create / initialize local ChromaDB vector store collection.
 
     Args:
-        endpoint: Azure AI Search endpoint.
-        api_key: Azure AI Search API key.
-        index_name: Index name.
-        embedding_dimensions: Embedding dimensions.
+        persist_directory: Path to persistent directory.
+        collection_name: Name of the vector collection.
     """
-    client = SearchIndexClient(
-        endpoint=endpoint,
-        credential=AzureKeyCredential(api_key)
-    )
+    path = persist_directory or os.getenv("VECTOR_STORE_PATH", "./data/vectorstore")
+    name = collection_name or os.getenv("VECTOR_STORE_COLLECTION", "investor-intelligence")
 
-    fields = [
-        SimpleField(name="id", type=SearchFieldDataType.String, key=True),
-        SimpleField(name="company", type=SearchFieldDataType.String, filterable=True),
-        SimpleField(name="year", type=SearchFieldDataType.String, filterable=True),
-        SimpleField(name="source_file", type=SearchFieldDataType.String, filterable=True),
-        SearchField(name="content", type=SearchFieldDataType.String, searchable=True),
-        SearchField(
-            name="content_vector",
-            type=SearchFieldDataType.Collection(SearchFieldDataType.Single),
-            vector_search_dimensions=embedding_dimensions,
-            vector_search_profile_name="vector-profile"
-        )
-    ]
+    os.makedirs(path, exist_ok=True)
+    client = chromadb.PersistentClient(path=path)
+    client.get_or_create_collection(name=name)
 
-    vector_search = VectorSearch(
-        algorithms=[
-            HnswAlgorithmConfiguration(name="hnsw-config")
-        ],
-        profiles=[
-            VectorSearchProfile(
-                name="vector-profile",
-                algorithm_configuration_name="hnsw-config"
-            )
-        ]
-    )
-
-    index = SearchIndex(
-        name=index_name,
-        fields=fields,
-        vector_search=vector_search
-    )
-
-    client.create_or_update_index(index)
-
-    print(f"Index '{index_name}' created successfully.")
+    print(f"ChromaDB collection '{name}' initialized successfully at '{path}'.")
 
 
 if __name__ == "__main__":
-    create_index(
-        endpoint=os.getenv("AZURE_SEARCH_ENDPOINT"),
-        api_key=os.getenv("AZURE_SEARCH_API_KEY"),
-        index_name=os.getenv("AZURE_SEARCH_INDEX_NAME")
-    )
+    create_index()

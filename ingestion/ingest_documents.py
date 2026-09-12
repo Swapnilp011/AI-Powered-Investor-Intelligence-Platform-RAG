@@ -1,15 +1,13 @@
 import os
 from pathlib import Path
-
 from dotenv import load_dotenv
-from langchain_openai import AzureOpenAIEmbeddings
 
 from ingestion.pdf_to_markdown import PDFToMarkdownConverter
 from ingestion.semantic_chunker import chunk_markdown
-from vectorstore.azure_ai_search import AzureAISearchVectorStore
+from vectorstore.chroma_store import ChromaVectorStore, Retriever
 from rag.kpi_extractor_rag import extract_financial_metrics
 from database.save_metrics import save_metrics
-from vectorstore.azure_ai_search import Retriever
+from llm.llm_client import get_embedding_client
 
 load_dotenv()
 
@@ -17,20 +15,27 @@ load_dotenv()
 def parse_company_year(pdf_file: Path) -> tuple[str, str]:
     """Parse company and year from a PDF filename.
 
-    Supports names like `2024_Apple.pdf` and `2024_AnnualReport_Apple.pdf`.
+    Supports names like `Tata_Motors_Enterprise_Financial_Analysis_Report.pdf`,
+    `2024_Apple.pdf`, and `Reliance_FY23_Annual_Report.pdf`.
     """
+    import re
     stem = pdf_file.stem
-    parts = stem.split("_")
-
-    if parts and parts[0].isdigit():
-        year = parts[0]
-        company = parts[-1]
-    elif len(parts) >= 2:
-        company = parts[0]
-        year = parts[1]
+    year_match = re.search(r'(19\d{2}|20\d{2})', stem)
+    if year_match:
+        year = year_match.group(1)
+        raw_year_str = year_match.group(0)
     else:
-        company = stem
-        year = ""
+        fy_match = re.search(r'FY(\d{2})', stem, re.IGNORECASE)
+        year = f"20{fy_match.group(1)}" if fy_match else "2024"
+        raw_year_str = fy_match.group(0) if fy_match else ""
+
+    cleaned_name = stem
+    if raw_year_str:
+        cleaned_name = cleaned_name.replace(raw_year_str, "")
+
+    cleaned_name = re.sub(r'(?i)[_\s]*(enterprise|financial|analysis|report|annual|statement)[_\s]*', ' ', cleaned_name)
+    cleaned_name = cleaned_name.replace("_", " ").strip()
+    company = " ".join(cleaned_name.split()) if cleaned_name else "Unknown Company"
 
     return company, year
 
@@ -38,7 +43,7 @@ def parse_company_year(pdf_file: Path) -> tuple[str, str]:
 def ingest_document(
     pdf_path: str,
     embeddings,
-    vector_store
+    vector_store: ChromaVectorStore
 ) -> None:
     """
     Ingest a single PDF document.
@@ -63,7 +68,7 @@ def ingest_document(
     print(f"Generated {len(chunks)} chunks for {pdf_file.name}")
 
     vector_store.upload_chunks(
-        chunks=chunks, 
+        chunks=chunks,
         embeddings=embeddings,
         company=company,
         year=year,
@@ -71,33 +76,28 @@ def ingest_document(
     )
 
     # Extract financial metrics using the newly ingested data
+    retriever = Retriever(embeddings=embeddings)
     metrics = extract_financial_metrics(
-        retriever=Retriever(vector_store.client),
+        retriever=retriever,
         company=company,
         year=int(year) if year.isdigit() else None
     )
 
-    # Persist metrics to PostgreSQL
+    # Persist metrics to SQL Server database
     if metrics:
-        save_metrics(company=company, year=int(year) if str(year).isdigit() else None, metrics=metrics)
+        save_metrics(
+            company=company,
+            year=int(year) if str(year).isdigit() else year,
+            metrics=metrics
+        )
 
 
 def ingest_directory(input_dir: str) -> None:
     """
     Ingest all PDFs from a directory.
     """
-    embeddings = AzureOpenAIEmbeddings(
-        model=os.getenv("AZURE_OPENAI_EMBEDDING_DEPLOYMENT"),
-        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-        api_version=os.getenv("AZURE_OPENAI_API_VERSION")
-    )
-
-    vector_store = AzureAISearchVectorStore(
-        endpoint=os.getenv("AZURE_SEARCH_ENDPOINT"),
-        api_key=os.getenv("AZURE_SEARCH_API_KEY"),
-        index_name=os.getenv("AZURE_SEARCH_INDEX_NAME")
-    )
+    embeddings = get_embedding_client()
+    vector_store = ChromaVectorStore()
 
     pdf_files = list(Path(input_dir).glob("*.pdf"))
 
@@ -113,4 +113,3 @@ def ingest_directory(input_dir: str) -> None:
 
 if __name__ == "__main__":
     ingest_directory("data/raw_pdfs")
-    # ingest_document("data/raw_pdfs/2024_Apple.pdf")

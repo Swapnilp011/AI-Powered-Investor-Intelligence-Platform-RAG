@@ -1,4 +1,4 @@
-**==> picture [502 x 613] intentionally omitted <==**
+
 
 Dear shareholders, colleagues, customers, and partners: 
 
@@ -206,19 +206,19 @@ It is why we are investing in our fundamentals, in our people, and in continued 
 
 It is not an exaggeration to say that what each of us does right now with the unique opportunity we have been given will shape the future. And I look forward to seeing how all of us use Microsoft as a platform to make a difference—one customer, one community, one country at a time. 
 
-**==> picture [93 x 42] intentionally omitted <==**
+
 
 Satya Nadella Chairman and Chief Executive Officer October 18, 2024 
 
 7 
 
-## **ISSUER PURCHASES OF EQUITY SECURITIES, DIVIDENDS, AND STOCK PERFORMANCE** 
+# **ISSUER PURCHASES OF EQUITY SECURITIES, DIVIDENDS, AND STOCK PERFORMANCE** 
 
-## MARKET AND STOCKHOLDERS 
+## <u>MARKET AND STOCKHOLDERS</u> 
 
 Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 25, 2024, there were 81,346 registered holders of record of our common stock. 
 
-## SHARE REPURCHASES AND DIVIDENDS 
+## <u>SHARE REPURCHASES AND DIVIDENDS</u> 
 
 ## **Share Repurchases** 
 
@@ -228,10 +228,14 @@ On September 14, 2021, our Board of Directors approved a share repurchase progra
 
 We repurchased the following shares of common stock under the share repurchase programs: 
 
-|**(In millions)**<br>**Shares**|**Amount**|**Shares**|**Amount**|**Shares**|**Amount**|
-|---|---|---|---|---|---|
-|**Year Ended June 30,**<br>**2024**<br>First Quarter<br>**11**<br>Second Quarter<br>**7**<br>Third Quarter<br>**7**<br>FourthQuarter<br>**7**|**$**<br>**3,560**<br> <br>**2,800**<br> <br>**2,800**<br> <br>**2,800**|**2023**<br>17<br>20<br>18<br>14|$ 4,600<br> <br>4,600<br> <br>4,600<br> <br>4,600|**2022**<br> <br>21<br> <br>20<br> <br>26<br> <br>28<br> <br>95|$ 6,200<br> <br>6,233<br> <br>7,800<br> <br>7,800|
-|Total<br>**32**|**$**<br>**11,960**|69|$ 18,400||$ 28,033|
+|**(In millions)**|**Shares**|**Amount**|**Shares**|**Amount**|**Shares**|**Amount**|
+|---|---|---|---|---|---|---|
+|**Year Ended June 30,**|**2024**||**2023**||**2022**||
+|First Quarter|**11**|**$**<br>**3,560**|17|$ 4,600|21|$ 6,200|
+|Second Quarter|**7**|<br>**2,800**|20|<br>4,600|20|<br>6,233|
+|Third Quarter|**7**|<br>**2,800**|18|<br>4,600|26|<br>7,800|
+|FourthQuarter|**7**|<br>**2,800**|14|<br>4,600|28|<br>7,800|
+|Total|**32**|**$**<br>**11,960**|69|$ 18,400|95|$ 28,033|
 
 
 
@@ -241,13 +245,19 @@ All repurchases were made using cash resources. Shares repurchased during the fi
 
 Our Board of Directors declared the following dividends: 
 
-|Our Board of Directors declared the following dividends:|||
-|---|---|---|
-|**Declaration Date**<br>**Record Date**<br>**Payment Date**|**Dividend**<br>**Per Share**|**Amount**|
-|**Fiscal Year 2024**<br>**September 19, 2023**<br>**November 16, 2023**<br>**December 14, 2023**<br>**November 28, 2023**<br>**February 15, 2024**<br>**March 14, 2024**<br>**March 12, 2024**<br>**May 16, 2024**<br>**June 13, 2024**<br>**June 12, 2024**<br>**August 15, 2024**<br>**September 12, 2024**|**$**<br>**0.75** <br>**0.75** <br>**0.75** <br>**0.75 **|**(In millions)**<br>**$**<br>**5,574**<br>**5,573**<br>**5,574**<br>**5,575 **|
-|**Total**<br>**Fiscal Year 2023**<br>September 20, 2022<br>November 17, 2022<br>December 8, 2022<br>November 29, 2022<br>February 16, 2023<br>March 9, 2023<br>March 14, 2023<br>May 18, 2023<br>June 8, 2023<br>June13,2023<br>August17,2023<br>September 14,2023|**$**<br>**3.00**|**$  22,296**|
-||$ 0.68<br>0.68<br>0.68<br>0.68|$ 5,066<br> <br>5,059<br> <br>5,054<br>5,051|
-|Total|$    2.72|$  20,230|
+|**Declaration Date**|**Record Date**|**Payment Date**|**Dividend**<br>**Per Share**|**Amount**|
+|---|---|---|---|---|
+|**Fiscal Year 2024**||||**(In millions)**|
+|**September 19, 2023**<br>**November 28, 2023**|**November 16, 2023**<br>**February 15, 2024**|**December 14, 2023**<br>**March 14, 2024**|**$**<br>**0.75** <br>**0.75**|**$**<br>**5,574**<br>**5,573**|
+|**March 12, 2024**|**May 16, 2024**|**June 13, 2024**|**0.75**|**5,574**|
+|**June 12, 2024**|**August 15, 2024**|**September 12, 2024**|**0.75 **|**5,575 **|
+|**Total**|||**$**<br>**3.00**|**$  22,296**|
+|**Fiscal Year 2023**|||||
+|September 20, 2022|November 17, 2022|December 8, 2022|$ 0.68|$ 5,066|
+|November 29, 2022|February 16, 2023|March 9, 2023|0.68|<br>5,059|
+|March 14, 2023|May 18, 2023|June 8, 2023|0.68|<br>5,054|
+|June13,2023|August17,2023|September 14,2023|0.68|5,051|
+|Total|||$    2.72|$  20,230|
 
 
 
@@ -255,13 +265,13 @@ The dividend declared on June 12, 2024 was included in other current liabilities
 
 8 
 
-## STOCK PERFORMANCE 
+## <u>STOCK PERFORMANCE</u> 
 
 ## **COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*** 
 
 Among Microsoft Corporation, the S&P 500 Index and the NASDAQ Computer Index 
 
-**==> picture [426 x 323] intentionally omitted <==**
+
 
 ||**6/19**|**6/20**|**6/21**|**6/22**|**6/23**|**6/24**|
 |---|---|---|---|---|---|---|
@@ -275,48 +285,38 @@ Among Microsoft Corporation, the S&P 500 Index and the NASDAQ Computer Index
 
 9 
 
-## _**More Personal Computing**_ 
+## **_More Personal Computing_** 
 
 Metrics related to our More Personal Computing segment assess the performance of key lines of business within this segment. These metrics provide strategic product insights which allow us to assess the performance across our commercial and consumer businesses. As we have diversity of target audiences and sales motions within the Windows business, we monitor metrics that are reflective of those varying motions. 
 
-Windows OEM revenue growth 
+|Windows OEM revenue growth|Revenue from sales of Windows Pro and non-Pro licenses<br>sold through the OEM channel|
+|---|---|
+|Windows Commercial products and cloud services<br>revenue growth|Revenue from Windows Commercial products and cloud<br>services, comprising volume licensing of the Windows<br>operating system, Windows cloud services, and other<br>Windows commercial offerings|
+|Devices revenue growth|Revenue from Devices, including Surface, HoloLens, and<br>PC accessories|
+|Xbox content and services revenue growth|Revenue from Xbox content and services, comprising first-<br>party content (such as Activision Blizzard) and third-party<br>content, including games and in-game content; Xbox Game<br>Pass and other subscriptions; Xbox Cloud Gaming;<br>advertising; third-party disc royalties; and other cloud<br>services|
+|Search and news advertising revenue (ex TAC) growth|Revenue from search and news advertising excluding<br>traffic acquisition costs (“TAC”) paid to Bing Ads network<br>publishers and news partners|
 
-Windows Commercial products and cloud services revenue growth 
 
-Devices revenue growth 
 
-Xbox content and services revenue growth 
+## <u>SUMMARY RESULTS OF OPERATIONS</u> 
 
-Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel 
-
-Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings 
-
-Revenue from Devices, including Surface, HoloLens, and PC accessories 
-
-Revenue from Xbox content and services, comprising firstparty content (such as Activision Blizzard) and third-party content, including games and in-game content; Xbox Game Pass and other subscriptions; Xbox Cloud Gaming; advertising; third-party disc royalties; and other cloud services 
-
-Search and news advertising revenue (ex TAC) growth Revenue from search and news advertising excluding traffic acquisition costs (“TAC”) paid to Bing Ads network publishers and news partners 
-
-## SUMMARY RESULTS OF OPERATIONS 
-
-|||||**Percentage**|
-|---|---|---|---|---|
-|**(In millions, except percentages andper share amounts)**||**2024**|**2023**|**Change**|
-|Revenue|**$**|**245,122**$|211,915|16%|
-|Gross margin||**171,008**|146,052|17%|
-|Operating income||**109,433**|88,523|24%|
-|Net income||**88,136**|72,361|22%|
-|Diluted earnings per share||**11.80**|9.68|22%|
-|Adjusted gross margin (non-GAAP)||**171,008**|146,204|17%|
-|Adjusted operating income (non-GAAP)||**109,433**|89,694|22%|
-|Adjusted net income (non-GAAP)||**88,136**|73,307|20%|
-|Adjusted diluted earningsper share(non-GAAP)||**11.80**|9.81|20%|
+|**(In millions, except percentages andper share amounts)**|**2024**|**2023**|**Percentage**<br>**Change**|
+|---|---|---|---|
+|Revenue|**$**<br>**245,122**|$  211,915|<br>16%|
+|Gross margin|**171,008**|146,052|<br>17%|
+|Operating income|**109,433**|88,523|<br>24%|
+|Net income|**88,136**|72,361|<br>22%|
+|Diluted earnings per share|**11.80**|9.68|<br>22%|
+|Adjusted gross margin (non-GAAP)|**171,008**|146,204|<br>17%|
+|Adjusted operating income (non-GAAP)|**109,433**|89,694|<br>22%|
+|Adjusted net income (non-GAAP)|**88,136**|73,307|<br>20%|
+|Adjusted diluted earningsper share(non-GAAP)|**11.80**|9.81|<br>20%|
 
 
 
 Adjusted gross margin, operating income, net income, and diluted earnings per share (“EPS”) are non-GAAP financial measures. Prior year non-GAAP financial measures exclude the impact of a $1.2 billion charge in the second quarter of fiscal year 2023 (“Q2 charge”), which included employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. 
 
-## _**Fiscal Year 2024 Compared with Fiscal Year 2023**_ 
+## **_Fiscal Year 2024 Compared with Fiscal Year 2023_** 
 
 Revenue increased $33.2 billion or 16% driven by growth across each of our segments. Intelligent Cloud revenue increased driven by Azure. Productivity and Business Processes revenue increased driven by Office 365 Commercial. More Personal Computing revenue increased driven by Gaming. 
 
@@ -336,20 +336,26 @@ Operating income increased $20.9 billion or 24% driven by growth across each of 
 
 Prior year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively. 
 
-## SEGMENT RESULTS OF OPERATIONS 
+## <u>SEGMENT RESULTS OF OPERATIONS</u> 
 
-|**(In millions, except percentages)**|**2024**|**2023**<br>**Percentage**<br>**Change**|
-|---|---|---|
-|**Revenue**<br>Productivity and Business Processes<br>Intelligent Cloud<br>More Personal Computing|**$**<br>**77,728** <br>**105,362**<br>**62,032**|$ 69,274<br>12%<br>87,907<br>20%<br>54,734<br>13%<br>$211,915<br>16%<br>$ 34,189<br>19%<br>37,884<br>31%<br>16,450<br>17%<br>$ 88,523<br>24%|
-|Total<br>**Operating Income**<br>Productivity and Business Processes<br>Intelligent Cloud<br>More Personal Computing|**$**<br>**245,122**||
-||**$**<br>**40,540** <br>**49,584**<br>**19,309**||
-|Total|**$**<br>**109,433**||
+|**(In millions, except percentages)**|**2024**|**2023**|**Percentage**<br>**Change**|
+|---|---|---|---|
+|**Revenue**||||
+|Productivity and Business Processes|**$**<br>**77,728**|$ 69,274|<br>12%|
+|Intelligent Cloud|**105,362**|87,907|<br>20%|
+|More Personal Computing|**62,032**|54,734|<br>13%|
+|Total|**$**<br>**245,122**|$211,915|<br>16%|
+|**Operating Income**||||
+|Productivity and Business Processes|**$**<br>**40,540**|$ 34,189|<br>19%|
+|Intelligent Cloud|**49,584**|37,884|<br>31%|
+|More Personal Computing|**19,309**|16,450|<br>17%|
+|Total|**$**<br>**109,433**|$ 88,523|<br>24%|
 
 
 
 ## **Reportable Segments** 
 
-## _**Fiscal Year 2024 Compared with Fiscal Year 2023**_ 
+## **_Fiscal Year 2024 Compared with Fiscal Year 2023_** 
 
 ## _Productivity and Business Processes_ 
 
@@ -405,77 +411,79 @@ Operating income increased $2.9 billion or 17%.
 
 32 
 
-OPERATING EXPENSES 
+## <u>OPERATING EXPENSES</u> 
 
 ## **Research and Development** 
 
-|||||**Percentage**|
-|---|---|---|---|---|
-|**(In millions, except percentages)**||**2024**|**2023**|**Change**|
-|Research and development|**$**|**29,510**$|27,195|9%|
-|As apercent of revenue||**12%**|13%|(1)ppt|
+|**(In millions, except percentages)**|**2024**|**2023**|**Percentage**<br>**Change**|
+|---|---|---|---|
+|Research and development|**$**<br>**29,510**|$   27,195|<br>9%|
+|As apercent of revenue|**12%**|13%|<br>(1)ppt|
 
 
 
 Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include thirdparty development and programming costs and the amortization of purchased software code and services content. 
 
-## _**Fiscal Year 2024 Compared with Fiscal Year 2023**_ 
+## **_Fiscal Year 2024 Compared with Fiscal Year 2023_** 
 
 Research and development expenses increased $2.3 billion or 9% driven by Gaming, with 7 points of growth from the Activision Blizzard acquisition, and investments in cloud engineering. 
 
 ## **Sales and Marketing** 
 
-|||||**Percentage**|
-|---|---|---|---|---|
-|**(In millions, except percentages)**||**2024**|**2023**|**Change**|
-|Sales and marketing|**$**|**24,456**$|22,759|7%|
-|As apercent of revenue||**10%**|11%|(1)ppt|
+|**(In millions, except percentages)**|**2024**|**2023**|**Percentage**<br>**Change**|
+|---|---|---|---|
+|Sales and marketing|**$**<br>**24,456**|$   22,759|<br>7%|
+|As apercent of revenue|**10%**|11%|<br>(1)ppt|
 
 
 
 Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs. 
 
-## _**Fiscal Year 2024 Compared with Fiscal Year 2023**_ 
+## **_Fiscal Year 2024 Compared with Fiscal Year 2023_** 
 
 Sales and marketing expenses increased $1.7 billion or 7% driven by Gaming, with 6 points of growth from the Activision Blizzard acquisition. 
 
 ## **General and Administrative** 
 
-|||||**Percentage**|
-|---|---|---|---|---|
-|**(In millions, except percentages)**||**2024**|**2023**|**Change**|
-|General and administrative|**$**|**7,609**$|7,575|0%|
-|As apercent of revenue||**3%**|4%|(1)ppt|
+|**(In millions, except percentages)**|**2024**|**2023**|**Percentage**<br>**Change**|
+|---|---|---|---|
+|General and administrative|**$**<br>**7,609**|$   7,575|<br>0%|
+|As apercent of revenue|**3%**|4%|<br>(1)ppt|
 
 
 
 General and administrative expenses include payroll, employee benefits, stock-based compensation expense, employee severance expense incurred as part of a corporate program, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees. 
 
-## _**Fiscal Year 2024 Compared with Fiscal Year 2023**_ 
+## **_Fiscal Year 2024 Compared with Fiscal Year 2023_** 
 
 General and administrative expenses increased slightly as growth from the Activision Blizzard acquisition was offset in part by the prior year Q2 charge. 
 
 33 
 
-## OTHER INCOME (EXPENSE), NET 
+<u>OTHER INCOME (EXPENSE), NET</u> 
 
 The components of other income (expense), net were as follows: 
 
-## **(In millions)** 
-
-|**Year Ended June 30,**<br>**2024**<br>Interest and dividends income<br>**$**<br>**3,157** <br>Interest expense<br>**(2,935)**<br>Net recognized gains (losses) on investments<br>**(118)**<br>Net losses on derivatives<br>**(187)**<br>Net gains (losses) on foreign currency remeasurements<br>**(244)**<br>Other,net<br>**(1,319)**|**2023**<br>$    2,994<br>(1,968)<br>260<br>(456)<br>181<br>(223)|
-|---|---|
-|Total<br>**$**<br>**(1,646)**|$ 788|
+|**(In millions)**|||
+|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|
+|Interest and dividends income|**$**<br>**3,157**|$    2,994|
+|Interest expense|**(2,935)**|(1,968)|
+|Net recognized gains (losses) on investments|**(118)**|260|
+|Net losses on derivatives|**(187)**|(456)|
+|Net gains (losses) on foreign currency remeasurements|**(244)**|181|
+|Other,net|**(1,319)**|(223)|
+|Total|**$**<br>**(1,646)**|$ 788|
 
 
 
 We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net. 
 
-## _**Fiscal Year 2024 Compared with Fiscal Year 2023**_ 
+## **_Fiscal Year 2024 Compared with Fiscal Year 2023_** 
 
 Interest and dividends income increased due to higher yields. Interest expense increased due to the issuance of commercial paper. Net recognized losses on investments increased primarily due to higher equity impairments and lower gains on equity investments. Net losses on derivatives decreased primarily due to lower losses on equity derivatives. Other, net primarily reflects net recognized losses on equity method investments. 
 
-## INCOME TAXES 
+## <u>INCOME TAXES</u> 
 
 ## **Effective Tax Rate** 
 
@@ -495,28 +503,32 @@ We remain under audit by the IRS for tax years 2014 to 2017. With respect to the
 
 We are subject to income tax in many jurisdictions outside the U.S. Our operations in certain jurisdictions remain subject to examination for tax years 1996 to 2023, some of which are currently under audit by local tax authorities. The resolution of each of these audits is not expected to be material to our consolidated financial statements. 
 
-## NON-GAAP FINANCIAL MEASURES 
+## <u>NON-GAAP FINANCIAL MEASURES</u> 
 
 Adjusted gross margin, operating income, net income, and diluted EPS are non-GAAP financial measures. Prior year nonGAAP financial measures exclude the impact of the Q2 charge, which includes employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. We believe these non-GAAP measures aid investors by providing additional insight into our operational performance and help clarify trends affecting our business. For comparability of reporting, management considers non-GAAP measures in conjunction with GAAP financial results in evaluating business performance. These non-GAAP financial measures presented should not be considered a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP. 
 
 The following table reconciles our financial results reported in accordance with GAAP to non-GAAP financial results: 
 
-|**(In millions, except percentages andper share amounts)**|**2024**|**2023**<br>**Percentage**<br>**Change**|
-|---|---|---|
-|Gross margin<br>Severance,hardware-related impairment,and lease consolidation costs|**$**<br>**171,008** <br>**0**|$ 146,052<br>17%<br>152<br>*<br>$146,204<br>17%<br>$ 88,523<br>24%<br>1,171<br>*<br>$ 89,694<br>22%<br>$ 72,361<br>22%<br>946<br>*<br>$ 73,307<br>20%<br>$ 9.68<br>22%<br>0.13<br>*<br>$ 9.81<br>20%|
-|Adjusted gross margin (non-GAAP)<br>Operating income<br>Severance,hardware-related impairment,and lease consolidation costs|**$**<br>**171,008**||
-||**$**<br>**109,433** <br>**0**||
-|Adjusted operating income (non-GAAP)<br>Net income<br>Severance,hardware-related impairment,and lease consolidation costs|**$**<br>**109,433**||
-||**$**<br>**88,136** <br>**0**||
-|Adjusted net income (non-GAAP)<br>Diluted earnings per share<br>Severance,hardware-related impairment,and lease consolidation costs|**$**<br>**88,136**||
-||**$**<br>**11.80** <br>**0**||
-|Adjusted diluted earnings per share (non-GAAP)|**$**<br>**11.80**||
+|**(In millions, except percentages andper share amounts)**|**2024**|**2023**|**Percentage**<br>**Change**|
+|---|---|---|---|
+|Gross margin|**$**<br>**171,008**|$ 146,052|<br>17%|
+|Severance,hardware-related impairment,and lease consolidation costs|**0**|152|<br>*|
+|Adjusted gross margin (non-GAAP)|**$**<br>**171,008**|$146,204|<br>17%|
+|Operating income|**$**<br>**109,433**|$ 88,523|<br>24%|
+|Severance,hardware-related impairment,and lease consolidation costs|**0**|1,171|<br>*|
+|Adjusted operating income (non-GAAP)|**$**<br>**109,433**|$ 89,694|<br>22%|
+|Net income|**$**<br>**88,136**|$ 72,361|<br>22%|
+|Severance,hardware-related impairment,and lease consolidation costs|**0**|946|<br>*|
+|Adjusted net income (non-GAAP)|**$**<br>**88,136**|$ 73,307|<br>20%|
+|Diluted earnings per share|**$**<br>**11.80**|$ 9.68|<br>22%|
+|Severance,hardware-related impairment,and lease consolidation costs|**0**|0.13|<br>*|
+|Adjusted diluted earnings per share (non-GAAP)|**$**<br>**11.80**|$ 9.81|<br>20%|
 
 
 
-- _Not meaningful._ 
+* _Not meaningful._ 
 
-## LIQUIDITY AND CAPITAL RESOURCES 
+## <u>LIQUIDITY AND CAPITAL RESOURCES</u> 
 
 We expect existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets to continue to be sufficient to fund our operating activities and cash commitments for investing and financing activities, such as dividends, share repurchases, debt maturities, material capital expenditures, and the transition tax related to the Tax Cuts and Jobs Act (“TCJA”), for at least the next 12 months and thereafter for the foreseeable future. 
 
@@ -550,17 +562,15 @@ payments for other offerings for which we have been paid in advance and earn the
 
 The following table outlines the expected future recognition of unearned revenue as of June 30, 2024: 
 
-## **(In millions)** 
-
-|**(In millions)**|||
-|---|---|---|
-|**Three Months Ending**|||
-|September 30, 2024|**$**|**22,529**|
-|December 31, 2024||**17,664**|
-|March 31, 2025||**12,076**|
-|June 30, 2025||**5,313**|
-|Thereafter||**2,602**|
-|Total|**$**|**60,184**|
+|**(In millions)**||
+|---|---|
+|**Three Months Ending**||
+|September 30, 2024|**$**<br>**22,529**|
+|December 31, 2024|**17,664**|
+|March 31, 2025|**12,076**|
+|June 30, 2025|**5,313**|
+|Thereafter|**2,602**|
+|Total|**$**<br>**60,184**|
 
 
 
@@ -568,14 +578,19 @@ If our customers choose to license cloud-based versions of our products and serv
 
 ## **Material Cash Requirements and Other Obligations** 
 
-## _**Contractual Obligations**_ 
+## **_Contractual Obligations_** 
 
 The following table summarizes the payments due by fiscal year for our outstanding contractual obligations as of June 30, 2024: 
 
-|**(In millions)**<br>**2025**|**Thereafter**|**Total**|
-|---|---|---|
-|Long-term debt:(a)<br>Principal payments<br>**$**<br>**2,250** <br>Interest payments<br>**1,618** <br>Construction commitments(b)<br>**29,892** <br>Operating and finance leases, including imputed interest(c)<br>**12,250** <br>Purchase commitments(d)<br>**68,280**|**$**<br>**48,971** <br>**27,041** <br>**5,499** <br>**160,475** <br>**3,742**|**$**<br>**51,221**<br>**28,659**<br>**35,391**<br>**172,725**<br>**72,022**|
-|Total<br>**$**<br>**114,290**|**$**<br>**245,728**|**$**<br>**360,018**|
+|**(In millions)**|**2025**|**Thereafter**|**Total**|
+|---|---|---|---|
+|Long-term debt:<sup>(a)</sup>||||
+|Principal payments|**$**<br>**2,250**|**$**<br>**48,971**|**$**<br>**51,221**|
+|Interest payments|**1,618**|**27,041**|**28,659**|
+|Construction commitments<sup>(b)</sup>|**29,892**|**5,499**|**35,391**|
+|Operating and finance leases, including imputed interest<sup>(c)</sup>|**12,250**|**160,475**|**172,725**|
+|Purchase commitments<sup>(d)</sup>|**68,280**|**3,742**|**72,022**|
+|Total|**$**<br>**114,290**|**$**<br>**245,728**|**$**<br>**360,018**|
 
 
 
@@ -587,29 +602,29 @@ The following table summarizes the payments due by fiscal year for our outstandi
 
 (d) _Purchase commitments primarily relate to datacenters and include open purchase orders and take-or-pay contracts that are not presented as construction commitments above._ 
 
-## _**Income Taxes**_ 
+## **_Income Taxes_** 
 
 As a result of the TCJA, we are required to pay a one-time transition tax on deferred foreign income not previously subject to U.S. income tax. Under the TCJA, the transition tax is payable in interest-free installments over eight years, with 8% due in each of the first five years, 15% in year six, 20% in year seven, and 25% in year eight. As of June 30, 2024, we had a remaining transition tax liability of $7.6 billion, of which $3.8 billion is short-term and payable in the first quarter of fiscal year 2025. 
 
 37 
 
-## _**Share Repurchases**_ 
+## **_Share Repurchases_** 
 
 During fiscal years 2024 and 2023, we repurchased 32 million shares and 69 million shares of our common stock for $12.0 billion and $18.4 billion, respectively, through our share repurchase program. All repurchases were made using cash resources. As of June 30, 2024, $10.3 billion remained of our $60 billion share repurchase program. Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements for further discussion. 
 
-## _**Dividends**_ 
+## **_Dividends_** 
 
 During fiscal years 2024 and 2023, our Board of Directors declared dividends totaling $22.3 billion and $20.2 billion, respectively. We intend to continue returning capital to shareholders in the form of dividends, subject to declaration by our Board of Directors. Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements for further discussion. 
 
-## _**Other Planned Uses of Capital**_ 
+## **_Other Planned Uses of Capital_** 
 
 We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology, as well as acquisitions that align with our business strategy. Additions to property and equipment will continue, including new facilities, datacenters, and computer systems for research and development, sales and marketing, support, and administrative staff. We expect capital expenditures to increase in coming years to support growth in our cloud offerings and our investments in AI infrastructure and training. We have operating and finance leases for datacenters, corporate offices, research and development facilities, Microsoft Experience Centers, and certain equipment. We have not engaged in any related party transactions or arrangements with unconsolidated entities or other persons that are reasonably likely to materially affect liquidity or the availability of capital resources. 
 
-## RECENT ACCOUNTING GUIDANCE 
+## <u>RECENT ACCOUNTING GUIDANCE</u> 
 
 Refer to Note 1 – Accounting Policies of the Notes to Financial Statements for further discussion. 
 
-## CRITICAL ACCOUNTING ESTIMATES 
+## <u>CRITICAL ACCOUNTING ESTIMATES</u> 
 
 Our consolidated financial statements and accompanying notes are prepared in accordance with GAAP. Preparing consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Critical accounting estimates are those estimates that involve a significant level of estimation uncertainty and could have a material impact on our financial condition or results of operations. We have critical accounting estimates in the areas of revenue recognition, impairment of investment securities, goodwill, research and development costs, legal and other contingencies, income taxes, and business combinations – valuation of intangible assets. 
 
@@ -675,13 +690,15 @@ Satya Nadella Chief Executive Officer
 
 Amy E. Hood Executive Vice President and Chief Financial Officer 
 
-Alice L. Jolla Corporate Vice President and Chief Accounting Officer 
+Alice L. Jolla 
+
+Corporate Vice President and Chief Accounting Officer 
 
 41 
 
-## **QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK** 
+# **QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK** 
 
-## RISKS 
+## <u>RISKS</u> 
 
 We are exposed to economic risk from foreign exchange rates, interest rates, credit risk, and equity prices. We use derivatives instruments to manage these risks, however, they may still impact our consolidated financial statements. 
 
@@ -701,40 +718,54 @@ Our fixed-income portfolio is diversified and consists primarily of investment-g
 
 Securities held in our equity investments portfolio are subject to price risk. 
 
-## SENSITIVITY ANALYSIS 
+## <u>SENSITIVITY ANALYSIS</u> 
 
 The following table sets forth the potential loss in future earnings or fair values, including associated derivatives, resulting from hypothetical changes in relevant market rates or prices: 
 
-## **(In millions)** 
+### **<u>(In millions)</u>** 
 
-|||**June 30,**|
-|---|---|---|
-|**Risk Categories**|**Hypothetical Change**|**2024** **Impact**|
-|Foreign currency – Revenue|10% decrease in foreign exchange rates|**$   (9,605)**Earnings|
-|Foreign currency – Investments|10% decrease in foreign exchange rates|**(38)**Fair Value|
-|Interest rate|100 basis point increase in U.S. treasury interest rates|**(1,343)**Fair Value|
-|Credit|100 basis point increase in credit spreads|**(318)**Fair Value|
-|Equity|10% decreaseinequitymarket prices|**(1,078)**Earnings|
+|**Risk Categories**|**Hypothetical Change**|**June 30,**<br>**2024**|**Impact**|
+|---|---|---|---|
+|Foreign currency – Revenue|10% decrease in foreign exchange rates|**$   (9,605)**|Earnings|
+|Foreign currency – Investments|10% decrease in foreign exchange rates|**(38)**|Fair Value|
+|Interest rate|100 basis point increase in U.S. treasury interest rates|**(1,343)**|Fair Value|
+|Credit|100 basis point increase in credit spreads|**(318)**|Fair Value|
+|Equity|10% decreaseinequitymarket prices|**(1,078)**|Earnings|
 
 
 
 42 
 
-## **FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA** 
+# **FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA** 
 
 ## **INCOME STATEMENTS** 
 
 |**(In millions, except per share amounts)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Revenue:<br>Product<br>Service and other|**2024**<br>**$   64,773** <br>**180,349**|**2023**<br>$  64,699<br>147,216|**2022**<br>$   72,732<br> <br>125,538|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Revenue:||||
+|Product|**$   64,773**|$  64,699|$   72,732|
+|Service and other|**180,349**|147,216|<br>125,538|
 |Total revenue|**245,122**|211,915|<br>198,270|
-|Cost of revenue:<br>Product<br>Service and other|**15,272**<br>**58,842**|17,804<br>48,059|<br>19,064<br> <br>43,586|
+|Cost of revenue:||||
+|Product|**15,272**|17,804|<br>19,064|
+|Service and other|**58,842**|48,059|<br>43,586|
 |Total cost of revenue|**74,114**|65,863|<br>62,650|
-|Gross margin<br>Research and development<br>Sales and marketing<br>General and administrative|**171,008** <br>**29,510**<br>**24,456**<br>**7,609**|146,052<br>27,195<br>22,759<br>7,575|<br>135,620<br> <br>24,512<br> <br>21,825<br> <br>5,900|
-|Operating income<br>Other income(expense),net|**109,433**<br>**(1,646)**|88,523<br>788|<br>83,383<br> <br>333|
-|Income before income taxes<br>Provision for income taxes|**107,787**<br>**19,651**|89,311<br>16,950|<br>83,716<br> <br>10,978|
-|Net income<br>Earnings per share:<br>Basic<br>Diluted<br>Weighted average shares outstanding:<br>Basic<br>Diluted|**$**<br>**88,136**|$72,361|$ 72,738|
-||**$**<br>**11.86** <br>**$**<br>**11.80** <br>**7,431**<br>**7,469**|$ 9.72<br>$ 9.68<br>7,446<br>7,472|$ 9.70<br>$ 9.65<br> <br>7,496<br> <br>7,540|
+|Gross margin|**171,008**|146,052|<br>135,620|
+|Research and development|**29,510**|27,195|<br>24,512|
+|Sales and marketing|**24,456**|22,759|<br>21,825|
+|General and administrative|**7,609**|7,575|<br>5,900|
+|Operating income|**109,433**|88,523|<br>83,383|
+|Other income(expense),net|**(1,646)**|788|<br>333|
+|Income before income taxes|**107,787**|89,311|<br>83,716|
+|Provision for income taxes|**19,651**|16,950|<br>10,978|
+|Net income|**$**<br>**88,136**|$72,361|$ 72,738|
+|Earnings per share:||||
+|<br>Basic|**$**<br>**11.86**|$ 9.72|$ 9.70|
+|Diluted|**$**<br>**11.80**|$ 9.68|$ 9.65|
+|Weighted average shares outstanding:||||
+|Basic|**7,431**|7,446|<br>7,496|
+|Diluted|**7,469**|7,472|<br>7,540|
 
 
 
@@ -744,35 +775,66 @@ Refer to accompanying notes.
 
 ## **COMPREHENSIVE INCOME STATEMENTS** 
 
-## **(In millions)** 
-
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Net income<br>Other comprehensive income (loss), net of tax:<br>Net change related to derivatives<br>Net change related to investments<br>Translation adjustments and other|**2024**<br>**$**<br>**88,136**|**2023**<br>$72,361|**2022**<br>$72,738|
-||**24**<br>**957**<br>**(228)**|(14)<br>(1,444)<br>(207)|<br>6<br> <br>(5,360)<br>(1,146)|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Net income|**$**<br>**88,136**|$72,361|$72,738|
+|Other comprehensive income (loss), net of tax:||||
+|Net change related to derivatives|**24**|(14)|<br>6|
+|Net change related to investments|**957**|(1,444)|<br>(5,360)|
+|Translation adjustments and other|**(228)**|(207)|(1,146)|
 |Other comprehensive income(loss)|**753**|(1,665)|(6,500)|
 |Comprehensive income|**$**<br>**88,889**|$ 70,696|$ 66,238|
 
 
 
-Refer to accompanying notes. 
+## Refer to accompanying notes. 
 
 44 
 
-## **BALANCE SHEETS** 
-
-## **(In millions)** 
+**BALANCE SHEETS** 
 
 |**(In millions)**|||
 |---|---|---|
-|**June 30,**<br>**Assets**<br>Current assets:<br>Cash and cash equivalents<br>Short-term investments|**2024**<br>**$**<br>**18,315** <br>**57,228**|**2023**<br>$ 34,704<br>76,558|
-|Total cash, cash equivalents, and short-term investments<br>Accounts receivable, net of allowance for doubtful accounts of**$830**and $650<br>Inventories<br>Other current assets|**75,543**<br>**56,924**<br>**1,246**<br>**26,021**|111,262<br>48,688<br>2,500<br>21,807|
-|Total current assets<br>Property and equipment, net of accumulated depreciation of**$76,421**and $68,251<br>Operating lease right-of-use assets<br>Equity and other investments<br>Goodwill<br>Intangible assets, net<br>Other long-term assets|**159,734**<br>**135,591**<br>**18,961**<br>**14,600**<br>**119,220**<br>**27,597**<br>**36,460**|184,257<br>95,641<br>14,346<br>9,879<br>67,886<br>9,366<br>30,601|
-|Total assets<br>**Liabilities and stockholders’ equity**<br>Current liabilities:<br>Accounts payable<br>Short-term debt<br>Current portion of long-term debt<br>Accrued compensation<br>Short-term income taxes<br>Short-term unearned revenue<br>Other current liabilities|**$**<br>**512,163**|$411,976|
-||**$**<br>**21,996** <br>**6,693**<br>**2,249**<br>**12,564**<br>**5,017**<br>**57,582**<br>**19,185**|$ 18,095<br>0<br>5,247<br>11,009<br>4,152<br>50,901<br>14,745|
-|Total current liabilities<br>Long-term debt<br>Long-term income taxes<br>Long-term unearned revenue<br>Deferred income taxes<br>Operating lease liabilities<br>Other long-term liabilities|**125,286**<br>**42,688**<br>**27,931**<br>**2,602**<br>**2,618**<br>**15,497**<br>**27,064**|104,149<br>41,990<br>25,560<br>2,912<br>433<br>12,728<br>17,981|
+|**June 30,**|**2024**|**2023**|
+|**Assets**|||
+|Current assets:|||
+|Cash and cash equivalents|**$**<br>**18,315**|$ 34,704|
+|Short-term investments|**57,228**|76,558|
+|Total cash, cash equivalents, and short-term investments|**75,543**|111,262|
+|Accounts receivable, net of allowance for doubtful accounts of**$830**and $650|**56,924**|48,688|
+|Inventories|**1,246**|2,500|
+|Other current assets|**26,021**|21,807|
+|Total current assets|**159,734**|184,257|
+|Property and equipment, net of accumulated depreciation of**$76,421**and $68,251|**135,591**|95,641|
+|Operating lease right-of-use assets|**18,961**|14,346|
+|Equity and other investments|**14,600**|9,879|
+|Goodwill|**119,220**|67,886|
+|Intangible assets, net|**27,597**|9,366|
+|Other long-term assets|**36,460**|30,601|
+|Total assets|**$**<br>**512,163**|$411,976|
+|**Liabilities and stockholders’ equity**|||
+|Current liabilities:|||
+|Accounts payable|**$**<br>**21,996**|$ 18,095|
+|<br>Short-term debt|**6,693**|0|
+|Current portion of long-term debt|**2,249**|5,247|
+|Accrued compensation|**12,564**|11,009|
+|Short-term income taxes|**5,017**|4,152|
+|Short-term unearned revenue|**57,582**|50,901|
+|Other current liabilities|**19,185**|14,745|
+|Total current liabilities|**125,286**|104,149|
+|Long-term debt|**42,688**|41,990|
+|Long-term income taxes|**27,931**|25,560|
+|Long-term unearned revenue|**2,602**|2,912|
+|Deferred income taxes|**2,618**|433|
+|Operating lease liabilities|**15,497**|12,728|
+|<br>Other long-term liabilities|**27,064**|17,981|
 |Total liabilities|**243,686**|205,753|
-|Commitments and contingencies<br>Stockholders’ equity:<br>Common stock and paid-in capital – shares authorized 24,000; outstanding**7,434**<br>and 7,432<br>Retained earnings<br>Accumulated other comprehensive loss|**100,923**<br>**173,144**<br>**(5,590)**|93,718<br>118,848<br>(6,343)|
+|Commitments and contingencies|||
+|<br>Stockholders’ equity:|||
+|Common stock and paid-in capital – shares authorized 24,000; outstanding**7,434**<br>and 7,432|**100,923**|93,718|
+|<br>Retained earnings|**173,144**|118,848|
+|Accumulated other comprehensive loss|**(5,590)**|(6,343)|
 |Total stockholders’ equity|**268,477**|206,223|
 |Total liabilities and stockholders’ equity|**$**<br>**512,163**|$ 411,976|
 
@@ -784,18 +846,47 @@ Refer to accompanying notes.
 
 ## **CASH FLOWS STATEMENTS** 
 
-## **(In millions)** 
-
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>**Operations**<br>Net income<br>Adjustments to reconcile net income to net cash from operations:<br>Depreciation, amortization, and other<br>Stock-based compensation expense<br>Net recognized losses (gains) on investments and derivatives<br>Deferred income taxes<br>Changes in operating assets and liabilities:<br>Accounts receivable<br>Inventories<br>Other current assets<br>Other long-term assets<br>Accounts payable<br>Unearned revenue<br>Income taxes<br>Other current liabilities<br>Other long-term liabilities|**2024**<br>**$**<br>**88,136** <br>**22,287**<br>**10,734**<br>**305**<br>**(4,738)**<br>**(7,191)**<br>**1,284**<br>**(1,648)**<br>**(6,817)**<br>**3,545**<br>**5,348**<br>**1,687**<br>**4,867**<br>**749**|**2023**<br>$   72,361<br>13,861<br>9,611<br>196<br>(6,059)<br>(4,087)<br>1,242<br>(1,991)<br>(2,833)<br>(2,721)<br>5,535<br>(358)<br>2,272<br>553|**2022**<br>$   72,738<br> <br>14,460<br> <br>7,502<br> <br>(409)<br> <br>(5,702)<br> <br>(6,834)<br> <br>(1,123)<br> <br>(709)<br> <br>(2,805)<br> <br>2,943<br> <br>5,109<br> <br>696<br> <br>2,344<br> <br>825|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|**Operations**||||
+|Net income|**$**<br>**88,136**|$   72,361|$   72,738|
+|Adjustments to reconcile net income to net cash from operations:<br>|||<br>|
+|Depreciation, amortization, and other|**22,287**|13,861|<br>14,460|
+|Stock-based compensation expense|**10,734**|9,611|<br>7,502|
+|Net recognized losses (gains) on investments and derivatives|**305**|196|<br>(409)|
+|Deferred income taxes|**(4,738)**|(6,059)|<br>(5,702)|
+|Changes in operating assets and liabilities:||||
+|Accounts receivable|**(7,191)**|(4,087)|<br>(6,834)|
+|Inventories|**1,284**|1,242|<br>(1,123)|
+|Other current assets|**(1,648)**|(1,991)|<br>(709)|
+|Other long-term assets|**(6,817)**|(2,833)|<br>(2,805)|
+|Accounts payable|**3,545**|(2,721)|<br>2,943|
+|Unearned revenue|**5,348**|5,535|<br>5,109|
+|Income taxes|**1,687**|(358)|<br>696|
+|Other current liabilities|**4,867**|2,272|<br>2,344|
+|Other long-term liabilities|**749**|553|<br>825|
 |Net cash from operations|**118,548**|87,582|<br>89,035|
-|**Financing**<br>Proceeds from issuance of debt, maturities of 90 days or less, net<br>Proceeds from issuance of debt<br>Repayments of debt<br>Common stock issued<br>Common stock repurchased<br>Common stock cash dividends paid<br>Other,net|**5,250**<br>**24,395**<br>**(29,070)**<br>**2,002**<br>**(17,254)**<br>**(21,771)**<br>**(1,309)**|0<br>0<br>(2,750)<br>1,866<br>(22,245)<br>(19,800)<br>(1,006)|<br>0<br> <br>0<br> <br>(9,023)<br> <br>1,841<br> <br>(32,696)<br> <br>(18,135)<br>(863)|
+|**Financing**||||
+|Proceeds from issuance of debt, maturities of 90 days or less, net|**5,250**|0|<br>0|
+|Proceeds from issuance of debt|**24,395**|0|<br>0|
+|Repayments of debt|**(29,070)**|(2,750)|<br>(9,023)|
+|Common stock issued|**2,002**|1,866|<br>1,841|
+|Common stock repurchased|**(17,254)**|(22,245)|<br>(32,696)|
+|Common stock cash dividends paid|**(21,771)**|(19,800)|<br>(18,135)|
+|Other,net|**(1,309)**|(1,006)|(863)|
 |Net cash used in financing|**(37,757)**|(43,935)|(58,876)|
-|**Investing**<br>Additions to property and equipment<br>Acquisition of companies, net of cash acquired, and purchases of<br>intangible and other assets<br>Purchases of investments<br>Maturities of investments<br>Sales of investments<br>Other,net|**(44,477)**<br>**(69,132)**<br>**(17,732)**<br>**24,775**<br>**10,894**<br>**(1,298)**|(28,107)<br>(1,670)<br>(37,651)<br>33,510<br>14,354<br>(3,116)|<br>(23,886)<br> <br>(22,038)<br> <br>(26,456)<br> <br>16,451<br> <br>28,443<br>(2,825)|
+|**Investing**||||
+|Additions to property and equipment|**(44,477)**|(28,107)|<br>(23,886)|
+|Acquisition of companies, net of cash acquired, and purchases of<br>intangible and other assets|**(69,132)**|(1,670)|<br>(22,038)|
+|<br>Purchases of investments|**(17,732)**|(37,651)|<br>(26,456)|
+|Maturities of investments|**24,775**|33,510|<br>16,451|
+|Sales of investments|**10,894**|14,354|<br>28,443|
+|Other,net|**(1,298)**|(3,116)|(2,825)|
 |Net cash used in investing|**(96,970)**|(22,680)|(30,311)|
 |Effect of foreign exchange rates on cash and cash equivalents|**(210)**|(194)|(141)|
-|Net change in cash and cash equivalents<br>Cash and cash equivalents,beginningofperiod|**(16,389)**<br>**34,704**|20,773<br>13,931|<br>(293)<br> <br>14,224|
+|Net change in cash and cash equivalents|**(16,389)**|20,773|<br>(293)|
+|Cash and cash equivalents,beginningofperiod|**34,704**|13,931|<br>14,224|
 |Cash and cash equivalents, end of period|**$**<br>**18,315**|$ 34,704|$ 13,931|
 
 
@@ -808,24 +899,36 @@ Refer to accompanying notes.
 
 |**(In millions, except per share amounts)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>**Common stock and paid-in capital**<br>Balance, beginning of period<br>Common stock issued<br>Common stock repurchased<br>Stock-based compensation expense<br>Other,net|**2024**<br>**$**<br>**93,718** <br>**2,002**<br>**(5,712)**<br>**10,734**<br>**181**|**2023**<br>$ 86,939<br>1,866<br>(4,696)<br>9,611<br>(2)|**2022**<br>$ 83,111<br> <br>1,841<br> <br>(5,688)<br> <br>7,502<br>173|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|**Common stock and paid-in capital**||||
+|Balance, beginning of period|**$**<br>**93,718**|$ 86,939|$ 83,111|
+|Common stock issued|**2,002**|1,866|<br>1,841|
+|Common stock repurchased|**(5,712)**|(4,696)|<br>(5,688)|
+|Stock-based compensation expense|**10,734**|9,611|<br>7,502|
+|Other,net|**181**|(2)|173|
 |Balance,end ofperiod|**100,923**|93,718|<br>86,939|
-|**Retained earnings**<br>Balance, beginning of period<br>Net income<br>Common stock cash dividends<br>Common stock repurchased|**118,848**<br>**88,136**<br>**(22,293)**<br>**(11,547)**|84,281<br>72,361<br>(20,226)<br>(17,568)|<br>57,055<br> <br>72,738<br> <br>(18,552)<br>(26,960)|
+|**Retained earnings**||||
+|Balance, beginning of period|**118,848**|84,281|<br>57,055|
+|Net income|**88,136**|72,361|<br>72,738|
+|Common stock cash dividends|**(22,293)**|(20,226)|<br>(18,552)|
+|Common stock repurchased|**(11,547)**|(17,568)|(26,960)|
 |Balance,end ofperiod|**173,144**|118,848|<br>84,281|
-|**Accumulated other comprehensive loss**<br>Balance, beginning of period<br>Other comprehensive income(loss)|**(6,343)**<br>**753**|(4,678)<br>(1,665)|<br>1,822<br>(6,500)|
+|**Accumulated other comprehensive loss**||||
+|Balance, beginning of period|**(6,343)**|(4,678)|<br>1,822|
+|Other comprehensive income(loss)|**753**|(1,665)|(6,500)|
 |Balance,end ofperiod|**(5,590)**|(6,343)|(4,678)|
-|Total stockholders’ equity<br>Cash dividends declaredper common share|**$**<br>**268,477**|$206,223|$166,542|
-||**$**<br>**3.00**|$ 2.72|$ 2.48|
+|Total stockholders’ equity|**$**<br>**268,477**|$206,223|$166,542|
+|Cash dividends declaredper common share|**$**<br>**3.00**|$ 2.72|$ 2.48|
 
 
 
-Refer to accompanying notes. 
+## Refer to accompanying notes. 
 
 47 
 
 ## **NOTES TO FINANCIAL STATEMENTS** 
 
-## NOTE 1 — ACCOUNTING POLICIES 
+## <u>NOTE 1 — ACCOUNTING POLICIES</u> 
 
 ## **Accounting Principles** 
 
@@ -849,7 +952,7 @@ Assets and liabilities recorded in foreign currencies are translated at the exch
 
 ## **Revenue** 
 
-## _**Product Revenue and Service and Other Revenue**_ 
+## **_Product Revenue and Service and Other Revenue_** 
 
 Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server applications, business solution applications, desktop and server management tools, software development tools, video games, and hardware such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. 
 
@@ -857,7 +960,7 @@ Service and other revenue includes sales from cloud-based solutions that provide
 
 48 
 
-## _**Revenue Recognition**_ 
+## **_Revenue Recognition_** 
 
 Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services. We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities. 
 
@@ -891,7 +994,7 @@ Due to the various benefits from and the nature of our SA program, judgment is r
 
 Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer usage of our products and services, which are accounted for as variable consideration when determining the amount of revenue to recognize. Returns and credits are estimated at contract inception and updated at the end of each reporting period if additional information becomes available. Changes to our estimated variable consideration were not material for the periods presented. 
 
-## _**Contract Balances and Other Receivables**_ 
+## **_Contract Balances and Other Receivables_** 
 
 Timing of revenue recognition may differ from the timing of invoicing to customers. We record a receivable when revenue is recognized prior to invoicing, or unearned revenue when revenue is recognized subsequent to invoicing. For multi-year agreements, we generally invoice customers annually at the beginning of each annual coverage period. We record a receivable related to revenue recognized for multi-year on-premises licenses as we have an unconditional right to invoice and receive payment in the future related to those licenses. 
 
@@ -911,17 +1014,22 @@ Activity in the allowance for doubtful accounts was as follows:
 
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Balance, beginning of period<br>Charged to costs and other<br>Write-offs|**2024**<br>**$**<br>**716** <br>**386**<br> **(218)**|**2023**<br>$   710<br>258<br> (252)|**2022**<br>$   798<br> <br>157<br> (245)|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Balance, beginning of period|**$**<br>**716**|$   710|$   798|
+|Charged to costs and other|**386**|258|<br>157|
+|Write-offs|**(218)**|(252)|(245)|
 |Balance, end of period|**$**<br>**884**|$ 716|$ 710|
 
 
 
 Allowance for doubtful accounts included in our consolidated balance sheets: 
 
-|**(In millions)**|||
-|---|---|---|
-|**June 30,**<br>**2024**<br>Accounts receivable, net of allowance for doubtful accounts<br>**$**<br>**830** <br>Other long-term assets<br>**54**|**2023**<br>$ 650<br>66<br> $ 716|**2022**<br>$ 633<br>77|
-|Total<br>**$**<br>**884**||$ 710|
+|**(In millions)**||||
+|---|---|---|---|
+|**June 30,**|**2024**|**2023**|**2022**|
+|Accounts receivable, net of allowance for doubtful accounts|**$**<br>**830**|$ 650|$ 633|
+|Other long-term assets|**54**|66|77|
+|Total|**$**<br>**884**|$ 716|$ 710|
 
 
 
@@ -929,7 +1037,7 @@ As of June 30, 2024 and 2023, other receivables related to activities to facilit
 
 We record financing receivables when we offer certain customers the option to acquire our software products and services offerings through a financing program in a limited number of countries. As of June 30, 2024 and 2023, our financing receivables, net were $4.5 billion and $5.3 billion, respectively, for short-term and long-term financing receivables, which are included in other current assets and other long-term assets in our consolidated balance sheets. We record an allowance to cover expected losses based on troubled accounts, historical experience, and other currently available evidence. 
 
-## _**Assets Recognized from Costs to Obtain a Contract with a Customer**_ 
+## **_Assets Recognized from Costs to Obtain a Contract with a Customer_** 
 
 We recognize an asset for the incremental costs of obtaining a contract with a customer if we expect the benefit of those costs to be longer than one year. We have determined that certain sales incentive programs meet the requirements to be capitalized. Total capitalized costs to obtain a contract were immaterial during the periods presented and are included in other current and long-term assets in our consolidated balance sheets. 
 
@@ -967,7 +1075,7 @@ Income tax expense includes U.S. and international income taxes, and interest an
 
 ## **Financial Instruments** 
 
-## _**Investments**_ 
+## **_Investments_** 
 
 We consider all highly liquid interest-earning investments with a maturity of three months or less at the date of purchase to be cash equivalents. The fair values of these investments approximate their carrying values. In general, investments with original maturities of greater than three months and remaining maturities of less than one year are classified as short-term investments. Investments with maturities beyond one year may be classified as short-term based on their highly liquid nature and because such marketable securities represent the investment of cash that is available for current operations. 
 
@@ -981,7 +1089,7 @@ Equity investments with readily determinable fair values are measured at fair va
 
 Investments that are considered variable interest entities (“VIEs”) are evaluated to determine whether we are the primary beneficiary of the VIE, in which case we would be required to consolidate the entity. We evaluate whether we have (1) the power to direct the activities that most significantly impact the VIE’s economic performance, and (2) the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE. We have determined we are not the primary beneficiary of any of our VIE investments. Therefore, our VIE investments are not consolidated and the majority are accounted for under the equity method of accounting. 
 
-## _**Derivatives**_ 
+## **_Derivatives_** 
 
 Derivative instruments are recognized as either assets or liabilities and measured at fair value. The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. 
 
@@ -1039,17 +1147,17 @@ In March 2024, we entered into an agreement with Inflection AI, Inc. (“Inflect
 
 ## **Recent Accounting Guidance** 
 
-## _**Segment Reporting – Improvements to Reportable Segment Disclosures**_ 
+## **_Segment Reporting – Improvements to Reportable Segment Disclosures_** 
 
 In November 2023, the Financial Accounting Standards Board (“FASB”) issued a new standard to improve reportable segment disclosures. The guidance expands the disclosures required for reportable segments in our annual and interim consolidated financial statements, primarily through enhanced disclosures about significant segment expenses. The standard will be effective for us beginning with our annual reporting for fiscal year 2025 and interim periods thereafter, with early adoption permitted. We are currently evaluating the impact of this standard on our segment disclosures. 
 
-## _**Income Taxes – Improvements to Income Tax Disclosures**_ 
+## **_Income Taxes – Improvements to Income Tax Disclosures_** 
 
 In December 2023, the FASB issued a new standard to improve income tax disclosures. The guidance requires disclosure of disaggregated income taxes paid, prescribes standardized categories for the components of the effective tax rate reconciliation, and modifies other income tax-related disclosures. The standard will be effective for us beginning with our annual reporting for fiscal year 2026, with early adoption permitted. We are currently evaluating the impact of this standard on our income tax disclosures. 
 
 55 
 
-NOTE 2 — EARNINGS PER SHARE 
+<u>NOTE 2 — EARNINGS PER SHARE</u> 
 
 Basic earnings per share (“EPS”) is computed based on the weighted average number of shares of common stock outstanding during the period. Diluted EPS is computed based on the weighted average number of shares of common stock plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and stock awards. 
 
@@ -1057,23 +1165,33 @@ The components of basic and diluted EPS were as follows:
 
 |**(In millions, except per share amounts)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Net income available for common shareholders (A)<br>Weighted average outstanding shares of common stock (B)<br>Dilutive effect ofstock-based awards|**2024**<br>**$  88,136**|**2023**<br>$72,361|**2022**<br> $72,738<br> <br>7,496<br> <br>44<br> <br>7,540<br>$ 9.70<br> $ 9.65|
-||**7,431**<br>**38**|7,446<br>26||
-|Common stock and common stock equivalents (C)<br>**Earnings Per Share**<br>Basic (A/B)<br>Diluted (A/C)|**7,469**|7,472||
-||**$**<br>**11.86** <br>**$**<br>**11.80**|$ 9.72<br>$ 9.68||
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Net income available for common shareholders (A)|**$  88,136**|$72,361|$72,738|
+|Weighted average outstanding shares of common stock (B)|**7,431**|7,446|<br>7,496|
+|Dilutive effect ofstock-based awards|**38**|26|<br>44|
+|Common stock and common stock equivalents (C)|**7,469**|7,472|<br>7,540|
+|**Earnings Per Share**||||
+|Basic (A/B)|**$**<br>**11.86**|$ 9.72|$ 9.70|
+|Diluted (A/C)|**$**<br>**11.80**|$ 9.68|$ 9.65|
 
 
 
 Anti-dilutive stock-based awards excluded from the calculations of diluted EPS were immaterial during the periods presented. 
 
-## NOTE 3 — OTHER INCOME (EXPENSE), NET 
+## <u>NOTE 3 — OTHER INCOME (EXPENSE), NET</u> 
 
 The components of other income (expense), net were as follows: 
 
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Interest and dividends income<br>Interest expense<br>Net recognized gains (losses) on investments<br>Net losses on derivatives<br>Net gains (losses) on foreign currency remeasurements<br>Other,net|**2024**<br>**$**<br>**3,157** <br>**(2,935)**<br>**(118)**<br>**(187)**<br>**(244)**<br>**(1,319)**|**2023**<br>$   2,994<br>(1,968)<br>260<br>(456)<br>181<br>(223)<br>$ 788|**2022**<br>$   2,094<br> <br>(2,063)<br> <br>461<br> <br>(52)<br> <br>(75)<br>(32)|
-|Total|**$**<br>**(1,646)**||$ 333|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Interest and dividends income|**$**<br>**3,157**|$   2,994|$   2,094|
+|Interest expense|**(2,935)**|(1,968)|<br>(2,063)|
+|Net recognized gains (losses) on investments|**(118)**|260|<br>461|
+|Net losses on derivatives|**(187)**|(456)|<br>(52)|
+|Net gains (losses) on foreign currency remeasurements|**(244)**|181|<br>(75)|
+|Other,net|**(1,319)**|(223)|(32)|
+|Total|**$**<br>**(1,646)**|$ 788|$ 333|
 
 
 
@@ -1085,8 +1203,11 @@ Net recognized gains (losses) on debt investments were as follows:
 
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Realized gains from sales of available-for-sale securities<br>Realized losses from sales of available-for-sale securities<br>Impairments and allowance for credit losses|**2024**<br>**$    22** <br>**(98)**<br>**23**|**2023**<br>$    36<br>(124)<br>(10)|**2022**<br>$    162<br> <br>(138)<br>(81)<br>$ (57)|
-|Total|**$**<br>**(53)**|$ (98)||
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Realized gains from sales of available-for-sale securities|**$    22**|$    36|$    162|
+|Realized losses from sales of available-for-sale securities|**(98)**|(124)|<br>(138)|
+|Impairments and allowance for credit losses|**23**|(10)|(81)|
+|Total|**$**<br>**(53)**|$ (98)|$ (57)|
 
 
 
@@ -1094,46 +1215,75 @@ Net recognized gains (losses) on debt investments were as follows:
 
 Net recognized gains (losses) on equity investments were as follows: 
 
-**(In millions)** 
-
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Net realized gains on investments sold<br>Net unrealized gains on investments still held<br>Impairments of investments|**2024**<br>**$    18** <br>**146**<br>**(229)**|**2023**<br>$    75<br>303<br>(20)|**2022**<br>$    29<br> <br>509<br>(20)|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Net realized gains on investments sold|**$    18**|$    75|$    29|
+|Net unrealized gains on investments still held|**146**|303|<br>509|
+|Impairments of investments|**(229)**|(20)|(20)|
 |Total|**$**<br>**(65)**|$ 358|$ 518|
 
 
 
-## NOTE 4 — INVESTMENTS 
+## <u>NOTE 4 — INVESTMENTS</u> 
 
 ## **Investment Components** 
 
 The components of investments were as follows: 
 
-|**(In millions)**<br>**Fair Value**<br>**Level**|**Adjusted**<br>**Cost Basis**<br>**Unrealized**<br>**Gains**<br>**Unrealized**<br>**Losses**<br>**Recorded**<br>**Basis**<br>**Cash and**<br>**Cash**<br>**Equivalents**<br>**Short-term**<br>**Investments**<br>**Equity and**<br>**Other**<br>**Investments**|**Adjusted**<br>**Cost Basis**<br>**Unrealized**<br>**Gains**<br>**Unrealized**<br>**Losses**<br>**Recorded**<br>**Basis**<br>**Cash and**<br>**Cash**<br>**Equivalents**<br>**Short-term**<br>**Investments**<br>**Equity and**<br>**Other**<br>**Investments**|
-|---|---|---|
-|**June 30, 2024**<br>**Changes in Fair Value Recorded in**<br>**Other Comprehensive Income**<br>Commercial paper<br>Level 2<br>Certificates of deposit<br>Level 2<br>U.S. government securities<br>Level 1<br>U.S. agency securities<br>Level 2<br>Foreign government bonds<br>Level 2<br>Mortgage- and asset-<br>backed securities<br>Level 2<br>Corporate notes and<br>bonds<br>Level 2<br>Corporate notes and<br>bonds<br>Level 3<br>Municipal securities<br>Level 2<br>Municipal securities<br>Level 3|**$**<br>**4,666** **$**<br>**0 $**<br>**0** **$**<br>**4,666** **$**<br>**4,666** **$**<br>**0** **$**<br>**0**<br> <br>**1,547** <br>**0**<br>**0** <br>**1,547** <br>**1,503** <br>**44** <br>**0**<br> <br>**49,603** <br>**4**<br>**(2,948)** <br>**46,659** <br>**14** <br>**46,645** <br>**0**<br> <br>**17** <br>**0**<br>**0** <br>**17** <br>**0** <br>**17** <br>**0**<br> <br>**319** <br>**3**<br>**(16)** <br>**306** <br>**0** <br>**306** <br>**0**<br> <br>**944** <br>**3**<br>**(35)** <br>**912** <br>**0** <br>**912** <br>**0**<br> <br>**9,106** <br>**28**<br>**(318)** <br>**8,816** <br>**0** <br>**8,816** <br>**0**<br> <br>**1,641** <br>**0**<br>**(1)** <br>**1,640** <br>**0** <br>**140** <br>**1,500**<br> <br>**262** <br>**0**<br>**(13)** <br>**249** <br>**0** <br>**249** <br>**0**<br> <br>**104** <br>**0**<br>**(17)** <br>**87** <br>**0** <br>**87** <br>**0**||
-|Total debt investments<br>**Changes in Fair Value Recorded in**<br>**Net Income**<br>Equity investments<br>Level 1<br>Equityinvestments<br>Other|**$   68,209** **$**<br>**38$**<br>**(3,348)** **$**<br>**64,899** **$**<br>**6,183** **$**<br>**57,216** **$**<br>**1,500**||
-|||**$**<br>**3,547** **$**<br>**561** **$**<br>**0** **$**<br>**2,986**<br>**10,114** <br>**0** <br>**0** <br>**10,114**|
-|Total equity<br>investments<br>Cash<br>Derivatives,net(a)||**$**<br>**13,661** **$**<br>**561** **$**<br>**0** **$**<br>**13,100**|
-|||**$**<br>**11,571** **$**<br>**11,571** **$**<br>**0** **$**<br>**0**<br>**12** <br>**0** <br>**12** <br>**0**|
-|Total||**$   90,143** **$**<br>**18,315** **$**<br>**57,228** **$**<br>**14,600**|
+|**(In millions)**|**Fair Value**<br>**Level**|**Adjusted**<br>**Cost Basis**|**Unrealized**<br>**Gains**|**Unrealized**<br>**Losses**||**Recorded**<br>**Basis**|<br>**Cash and**<br>**Cash**<br>**Equivalents**|**Short-term**<br>**Investments**|**Equity and**<br>**Other**<br>**Investments**|
+|---|---|---|---|---|---|---|---|---|---|
+|**June 30, 2024**||||||||||
+|**Changes in Fair Value Recor**<br>**Other Comprehensive Inc**|**ded in**<br>**ome**|||||||||
+|Commercial paper|Level 2**$**|<br>**4,666**|**$**<br>**0 $**|<br>**0**|**$**|**4,666**|**$**<br>**4,666**|**$**<br>**0**|**$**<br>**0**|
+|Certificates of deposit|Level 2|**1,547**|**0**|**0**||**1,547**|<br>**1,503**|**44**|<br>**0**|
+|U.S. government securities|<br>Level 1|**49,603**|**4**|**(2,948)**||**46,659**|<br>**14**|**46,645**|<br>**0**|
+|U.S. agency securities|Level 2|**17**|**0**|**0**||**17**|<br>**0**|**17**|<br>**0**|
+|Foreign government bonds|<br>Level 2|**319**|**3**|**(16)**||**306**|<br>**0**|**306**|<br>**0**|
+|Mortgage- and asset-<br>backed securities|Level 2|**944**|**3**|**(35)**||**912**|<br>**0**|**912**|<br>**0**|
+|Corporate notes and<br>bonds|Level 2|**9,106**|**28**|**(318)**||**8,816**|<br>**0**|**8,816**|<br>**0**|
+|Corporate notes and<br>bonds|Level 3|**1,641**|**0**|**(1)**||**1,640**|<br>**0**|**140**|<br>**1,500**|
+|Municipal securities|Level 2|**262**|**0**|**(13)**||**249**|<br>**0**|**249**|<br>**0**|
+|Municipal securities|Level 3|**104**|**0**|**(17)**||**87**|<br>**0**|**87**|<br>**0**|
+|Total debt investments|<br>**$**|**68,209**|**$**<br>**38$**|**(3,348)**|**$**|**64,899**|**$**<br>**6,183**|**$**<br>**57,216**|**$**<br>**1,500**|
+|**Changes in Fair Value Recor**<br>**Net Income**|**ded in**|||||||||
+|Equity investments|Level 1||||**$**|**3,547**|**$**<br>**561**|**$**<br>**0**|**$**<br>**2,986**|
+|Equityinvestments|Other|||||**10,114**|<br>**0**|**0**|<br>**10,114**|
+|Total equity<br>investments|||||**$**|**13,661**|**$**<br>**561**|**$**<br>**0**|**$**<br>**13,100**|
+|Cash|||||**$**|**11,571**|**$**<br>**11,571**|**$**<br>**0**|**$**<br>**0**|
+|Derivatives,net<sup>(a)</sup>||||||**12**|<br>**0**|**12**|<br>**0**|
+|Total|||||**$**|**90,143**|**$**<br>**18,315**|**$**<br>**57,228**|**$**<br>**14,600**|
 
 
 
 57 
 
-|**(In millions)**<br>**Fair Value**<br>**Level**|**Adjusted**<br>**Cost Basis**<br>**Unrealized**<br>**Gains**<br>**Unrealized**<br>**Losses**<br>**Recorded**<br>**Basis**<br>**Cash and**<br>**Cash**<br>**Equivalents**<br>**Short-term**<br>**Investments**<br>**Equity and**<br>**Other**<br>**Investments**|**Adjusted**<br>**Cost Basis**<br>**Unrealized**<br>**Gains**<br>**Unrealized**<br>**Losses**<br>**Recorded**<br>**Basis**<br>**Cash and**<br>**Cash**<br>**Equivalents**<br>**Short-term**<br>**Investments**<br>**Equity and**<br>**Other**<br>**Investments**|
-|---|---|---|
-|**June 30, 2023**<br>**Changes in Fair Value Recorded in**<br>**Other Comprehensive Income**<br>Commercial paper<br>Level 2<br>Certificates of deposit<br>Level 2<br>U.S. government<br>securities<br>Level 1<br>U.S. agency securities<br>Level 2<br>Foreign government<br>bonds<br>Level 2<br>Mortgage- and asset-<br>backed securities<br>Level 2<br>Corporate notes and<br>bonds<br>Level 2<br>Corporate notes and<br>bonds<br>Level 3<br>Municipal securities<br>Level 2<br>Municipal securities<br>Level 3|$ 16,589  $ 0 $ 0  $ 16,589 $ 12,231  $ 4,358  $ 0<br> <br>2,701<br>0<br>0<br>2,701<br>2,657<br>44<br>0<br> <br>65,237<br>2<br>(3,870)<br>61,369<br>2,991<br>58,378<br>0<br> <br>2,703<br>0<br>0<br>2,703<br>894<br>1,809<br>0<br> <br>498<br>1<br>(24)<br>475<br>0<br>475<br>0<br> <br>824<br>1<br>(39)<br>786<br>0<br>786<br>0<br> <br>10,809<br>8<br>(583)<br>10,234<br>0<br>10,234<br>0<br> <br>120<br>0<br>0<br>120<br>0<br>120<br>0<br> <br>285<br>1<br>(18)<br>268<br>7<br>261<br>0<br> <br>103<br>0<br>(16)<br>87<br>0<br>87<br>0||
-|Total debt investments<br>**Changes in Fair Value Recorded in**<br>**Net Income**<br>Equity investments<br>Level 1<br>Equityinvestments<br>Other|$ 99,869  $ 13 $ (4,550)$ 95,332 $ 18,780  $ 76,552  $ 0||
-|||$ 10,138 $ 7,446  $ 0  $ 2,692<br>7,187<br>0<br>0<br>7,187|
-|Total equity<br>investments<br>Cash<br>Derivatives,net (a)||$ 17,325 $ 7,446  $ 0  $ 9,879|
-|||$ 8,478 $ 8,478  $ 0  $ 0<br>6<br>0<br>6<br>0|
-|Total||$  121,141 $ 34,704  $ 76,558  $ 9,879|
+|**(In millions)**|**Fair Value**<br>**Level**|**Adjusted**<br>**Cost Basis**|**Unrealized**<br>**Gains**|**Unrealized**<br>**Losses**|**Recorded**<br>**Basis**|**Cash and**<br>**Cash**<br>**Equivalents**|<br>**Short-term**<br>**Investments**|**Equity and**<br>**Other**<br>**Investments**|
+|---|---|---|---|---|---|---|---|---|
+|**June 30, 2023**|||||||||
+|**Changes in Fair Value Reco**<br>**Other Comprehensive In**|**rded in**<br>**come**||||||||
+|Commercial paper|Level 2 $|<br>16,589  $|<br>0 $|<br>0  $|<br>16,589|$ 12,231|$ 4,358|$ 0|
+|Certificates of deposit|Level 2|2,701|0|0|2,701|<br>2,657|<br>44|<br>0|
+|U.S. government<br>securities|Level 1|65,237|2|(3,870)|61,369|<br>2,991|<br>58,378|<br>0|
+|U.S. agency securities|Level 2|2,703|0|0|2,703|<br>894|<br>1,809|<br>0|
+|Foreign government<br>bonds|Level 2|498|1|(24)|475|<br>0|<br>475|<br>0|
+|Mortgage- and asset-<br>backed securities|Level 2|824|1|(39)|786|<br>0|<br>786|<br>0|
+|Corporate notes and<br>bonds|Level 2|10,809|8|(583)|10,234|<br>0|<br>10,234|<br>0|
+|Corporate notes and<br>bonds|Level 3|120|0|0|120|<br>0|<br>120|<br>0|
+|Municipal securities|Level 2|285|1|(18)|268|<br>7|<br>261|<br>0|
+|Municipal securities|Level 3|103|0|(16)|87|<br>0|<br>87|<br>0|
+|Total debt investments|<br>$|<br>99,869  $|<br>13 $|<br>(4,550)$|<br>95,332|$ 18,780|$ 76,552|$ 0|
+|**Changes in Fair Value Reco**<br>**Net Income**|**rded in**||||||||
+|Equity investments|Level 1|||$|<br>10,138|$ 7,446|$ 0|$ 2,692|
+|<br>Equityinvestments|Other||||7,187|<br>0|<br>0|<br>7,187|
+|Total equity<br>investments||||$|<br>17,325|$ 7,446|$ 0|$ 9,879|
+|Cash||||$|<br>8,478|$ 8,478|$ 0|$ 0|
+|Derivatives,net <sup>(a)</sup>|||||6|<br>0|<br>6|<br>0|
+|Total||||$|121,141|$ 34,704|$ 76,558|$ 9,879|
 
 
 
-## (a) _Refer to Note 5 – Derivatives for further information on the fair value of our derivative instruments._ 
+(a) _Refer to Note 5 – Derivatives for further information on the fair value of our derivative instruments._ 
 
 Equity investments presented as “Other” in the tables above include investments without readily determinable fair values measured using the equity method or measured at cost with adjustments for observable changes in price or impairments, and investments measured at fair value using net asset value as a practical expedient which are not categorized in the fair value hierarchy. As of June 30, 2024 and 2023, equity investments without readily determinable fair values measured at cost with adjustments for observable changes in price or impairments were $3.9 billion and $4.2 billion, respectively. 
 
@@ -1143,15 +1293,25 @@ Equity investments presented as “Other” in the tables above include investme
 
 Debt investments with continuous unrealized losses for less than 12 months and 12 months or greater and their related fair values were as follows: 
 
-|**(In millions)**|**Less than 12 Months**|**Less than 12 Months**|**12 Months or Greater**|**12 Months or Greater**|**Total**<br>**Fair Value**|**Total**<br>**Unrealized**<br>**Losses**|
+||**Less**|**than 12 Months**|**12 M**|**onths or Greater**||**Total**|
 |---|---|---|---|---|---|---|
-||**Fair Value**|**Unrealized**<br>**Losses**|**Fair Value**|**Unrealized**<br>**Losses**|||
-|**June 30, 2024**<br>U.S. government and agency<br>securities<br>Foreign government bonds<br>Mortgage- and asset-backed securities<br>Corporate notes and bonds<br>Municipalsecurities|**$**<br>**529** <br>**79** <br>**201** <br>**1,310** <br>**38**|**$**<br>**(12)**<br>**(2)**<br>**(1)**<br>**(9)**<br>**(1)**|**$**<br>**45,821** <br>**180** <br>**409** <br>**5,779** <br>**243**|**$**<br>**(2,936)**<br>**(14)**<br>**(34)**<br>**(310)**<br>**(29)**|**$**<br>**46,350**<br>**259**<br>**610**<br>**7,089**<br>**281**|**$**<br>**(2,948)**<br> <br>**(16)**<br> <br>**(35)**<br> <br>**(319)**<br> <br>**(30)**<br>**$**<br> **(3,348)**<br>**Total**<br>**Unrealized**<br>**Losses**|
-|Total<br>**(In millions)**|**$**<br>**2,157**|**$**<br> **(25)**|**$**<br>**52,432**|**$**<br> **(3,323)**|**$**<br>**54,589**||
-||||||**Total**<br>**Fair Value**||
-||**Fair Value**|**Unrealized**<br>**Losses**|**Fair Value**|**Unrealized**<br>**Losses**|||
-|**June 30, 2023**<br>U.S. government and agency<br>securities<br>Foreign government bonds<br>Mortgage- and asset-backed securities<br>Corporate notes and bonds<br>Municipal securities|$ 7,950<br>77<br> <br>257<br>2,326<br>111|$ (336)<br> <br>(5)<br> <br>(5)<br> <br>(49)<br> <br>(3)|$ 45,273<br>391<br>412<br>7,336<br>186|$ (3,534)<br> <br>(19)<br> <br>(34)<br> <br>(534)<br> <br>(31)|$ 53,223<br>468<br>669<br>9,662<br>297|$ (3,870)<br> <br>(24)<br> <br>(39)<br> <br>(583)<br> <br>(34)<br>$ (4,550)|
-|Total|$ 10,721|$  (398)|$ 53,598|$ (4,152)|$ 64,319||
+|**(In millions)**|**Fair Value**|**Unrealized**<br>**Losses**|**Fair Value**|**Unrealized**<br>**Losses**|**Total**<br>**Fair Value**|**Unrealized**<br>**Losses**|
+|**June 30, 2024**|||||||
+|U.S. government and agency<br>securities|**$**<br>**529**|**$**<br>**(12)**|**$**<br>**45,821**|**$**<br>**(2,936)**|**$**<br>**46,350**|**$**<br>**(2,948)**|
+|Foreign government bonds|**79**|**(2)**|**180**|**(14)**|**259**|<br>**(16)**|
+|Mortgage- and asset-backed securities|**201**|**(1)**|**409**|**(34)**|**610**|<br>**(35)**|
+|Corporate notes and bonds|**1,310**|**(9)**|**5,779**|**(310)**|**7,089**|<br>**(319)**|
+|Municipalsecurities|**38**|**(1)**|**243**|**(29)**|**281**|<br>**(30)**|
+|Total|**$**<br>**2,157**|**$**<br> **(25)**|**$**<br>**52,432**|**$**<br> **(3,323)**|**$**<br>**54,589**|**$**<br> **(3,348)**|
+||**Less**|**than 12 Months**|**12 M**|**onths or Greater**||**Total**|
+|**(In millions)**|**Fair Value**|**Unrealized**<br>**Losses**|**Fair Value**|**Unrealized**<br>**Losses**|**Total**<br>**Fair Value**|**Unrealized**<br>**Losses**|
+|**June 30, 2023**|||||||
+|U.S. government and agency<br>securities|$ 7,950|$ (336)|$ 45,273|$ (3,534)|$ 53,223|$ (3,870)|
+|Foreign government bonds|77|<br>(5)|391|<br>(19)|468|<br>(24)|
+|Mortgage- and asset-backed securities|<br>257|<br>(5)|412|<br>(34)|669|<br>(39)|
+|Corporate notes and bonds|2,326|<br>(49)|7,336|<br>(534)|9,662|<br>(583)|
+|Municipal securities|111|<br>(3)|186|<br>(31)|297|<br>(34)|
+|Total|$ 10,721|$  (398)|$ 53,598|$ (4,152)|$ 64,319|$ (4,550)|
 
 
 
@@ -1161,14 +1321,18 @@ Unrealized losses from fixed-income securities are primarily attributable to cha
 
 The following table outlines maturities of our debt investments as of June 30, 2024: 
 
-|**(In millions)**<br>**Adjusted**<br>**Cost Basis**|**Estimated**<br>**Fair Value**|
-|---|---|
-|**June 30, 2024**<br>Due in one year or less<br>**$**<br>**19,815**  <br>Due after one year through five years<br>**38,954** <br>Due after five years through 10 years<br>**8,028** <br>Due after 10 years<br>**1,412** <br>Total<br>**$**<br>**68,209**|**$**<br>**19,596**<br>**36,779**<br>**7,242**<br>**1,282**|
-||**$**<br>**64,899**|
+|**(In millions)**|**Adjusted**<br>**Cost Basis**|**Estimated**<br>**Fair Value**|
+|---|---|---|
+|**June 30, 2024**|||
+|Due in one year or less|**$**<br>**19,815**|**$**<br>**19,596**|
+|Due after one year through five years|**38,954**|**36,779**|
+|Due after five years through 10 years|**8,028**|**7,242**|
+|Due after 10 years|**1,412**|**1,282**|
+|Total|**$**<br>**68,209**|**$**<br>**64,899**|
 
 
 
-## NOTE 5 — DERIVATIVES 
+## <u>NOTE 5 — DERIVATIVES</u> 
 
 We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Our objectives for holding derivatives include reducing, eliminating, and efficiently managing the economic impact of these exposures as effectively as possible. Our derivative programs include strategies that both qualify and do not qualify for hedge accounting treatment. 
 
@@ -1204,19 +1368,18 @@ Certain counterparty agreements for derivative instruments contain provisions th
 
 The following table presents the notional amounts of our outstanding derivative instruments measured in U.S. dollar equivalents: 
 
-|||**June 30,**|**June 30,**|
-|---|---|---|---|
-|**(In millions)**||**2024**|**2023**|
-|**Designated as Hedging Instruments**||||
-|Foreign exchange contracts purchased|**$**|**1,492**$|1,492|
-|Interest rate contracts purchased||**1,100**|1,078|
-|**Not Designated as Hedging Instruments**||||
-|Foreign exchange contracts purchased||**7,167**|7,874|
-|Foreign exchange contracts sold||**31,793**<br>|25,159|
-|Equity contracts purchased||**4,016**|3,867|
-|Equity contracts sold||**2,165**|2,154|
-|Other contracts purchased||**2,113**|1,224|
-|Othercontracts sold||**811**|581|
+|**(In millions)**|**June 30,**<br>**2024**|**June 30,**<br>**2023**|
+|---|---|---|
+|**Designated as Hedging Instruments**|||
+|Foreign exchange contracts purchased|**$**<br>**1,492**|$ 1,492|
+|Interest rate contracts purchased|**1,100**|1,078|
+|**Not Designated as Hedging Instruments**|||
+|Foreign exchange contracts purchased|**7,167**|7,874|
+|Foreign exchange contracts sold|**31,793**|25,159|
+|Equity contracts purchased|**4,016**|3,867|
+|Equity contracts sold|**2,165**|2,154|
+|Other contracts purchased|**2,113**|1,224|
+|Othercontracts sold|**811**|581|
 
 
 
@@ -1226,10 +1389,24 @@ The following table presents our derivative instruments:
 
 |**(In millions)**|**Derivative**<br>**Assets**|**Derivative**<br>**Liabilities**|**Derivative**<br>**Assets**|**Derivative**<br>**Liabilities**|
 |---|---|---|---|---|
-|**Designated as Hedging Instruments**<br>Foreign exchange contracts<br>Interest rate contracts<br>**Not Designated as Hedging Instruments**<br>Foreign exchange contracts<br>Equity contracts<br>Othercontracts|**$**<br>**24** <br>**19** <br>**213** <br>**63** <br>**12**|**June 30,**<br>**2024**<br>**$**<br>**(76)** <br>**0**<br>**(230)**<br>**(491)**<br>**(3)**|$ 34<br>16<br>249<br>165<br>5|**June 30,**<br>**2023**<br>$ (67)<br> <br>0<br> <br>(332)<br> <br>(400)<br> <br>(6)|
-|Gross amounts of derivatives<br>Gross amounts of derivatives offset in the balance sheets<br>Cashcollateral received|**331** <br>**(151)** <br>**0**|**(800)**<br>**152**<br>**(104)**|469<br>(202)<br>0|<br>(805)<br> <br>206<br> <br>(125)|
-|Net amounts of derivatives<br>**Reported as**<br>Short-term investments<br>Other current assets<br>Other long-term assets<br>Other current liabilities<br>Other long-term liabilities|**$**<br>**180**|**$**<br>**(752)**|$ 267|$ (724)|
-||**$**<br>**12** <br>**149** <br>**19** <br>**0** <br>**0**|**$**<br>**0** <br>**0**<br>**0**<br>**(401)**<br>**(351)**|$ 6<br>245<br>16<br>0<br>0|$ 0<br> <br>0<br> <br>0<br> <br>(341)<br> <br>(383)|
+|||**June 30,**<br>**2024**||**June 30,**<br>**2023**|
+|**Designated as Hedging Instruments**|||||
+|Foreign exchange contracts|**$**<br>**24**|**$**<br>**(76)**|$ 34|$ (67)|
+|Interest rate contracts|**19**|**0**|16|<br>0|
+|**Not Designated as Hedging Instruments**|||||
+|Foreign exchange contracts|**213**|**(230)**|249|<br>(332)|
+|Equity contracts|**63**|**(491)**|165|<br>(400)|
+|Othercontracts|**12**|**(3)**|5|<br>(6)|
+|Gross amounts of derivatives|**331**|**(800)**|469|<br>(805)|
+|Gross amounts of derivatives offset in the balance sheets|**(151)**|**152**|(202)|<br>206|
+|Cashcollateral received|**0**|**(104)**|0|<br>(125)|
+|Net amounts of derivatives|**$**<br>**180**|**$**<br>**(752)**|$ 267|$ (724)|
+|**Reported as**|||||
+|Short-term investments|**$**<br>**12**|**$**<br>**0**|$ 6|$ 0|
+|Other current assets|**149**|**0**|245|<br>0|
+|Other long-term assets|**19**|**0**|16|<br>0|
+|Other current liabilities|**0**|**(401)**|0|<br>(341)|
+|Other long-term liabilities|**0**|**(351)**|0|<br>(383)|
 |Total|**$**<br>**180**|**$**<br> **(752)**|$267|$ (724)|
 
 
@@ -1240,73 +1417,81 @@ Gross derivative assets and liabilities subject to legally enforceable master ne
 
 The following table presents the fair value of our derivatives instruments on a gross basis: 
 
-|**(In millions)**||**Level 1**|**Level 2**|**Level 3**|**Total**|
-|---|---|---|---|---|---|
-|**June 30, 2024**||||||
-|Derivative assets|**$**<br>|**0** **$**|**327** **$**<br>|**4 $**|**331**|
-|Derivative liabilities||**(1)**|**(799)**|**0**|**(800)**|
-|**June 30, 2023**||||||
-|Derivative assets||0<br>|462|7<br>|469|
-|Derivative liabilities||0|(805)|0|(805)|
+|**(In millions)**|**Level 1**|**Level 2**|**Level 3**|**Total**|
+|---|---|---|---|---|
+|**June 30, 2024**|||||
+|Derivative assets|**$**<br>**0**|**$**<br>**327**|**$**<br>**4**|**$**<br>**331**|
+|Derivative liabilities|**(1)**|**(799)**|**0**|<br>**(800)**|
+|**June 30, 2023**|||||
+|Derivative assets|0|<br>462|<br>7|<br>469|
+|Derivative liabilities|0|<br>(805)|0|<br>(805)|
 
 
 
 Gains (losses) on derivative instruments recognized in other income (expense), net were as follows: 
 
-|**(In millions)**|||||
-|---|---|---|---|---|
-|**Year Ended June 30,**||**2024**|**2023**|**2022**|
-|**Designated as Fair Value Hedging Instruments**|||||
-|Foreign exchange contracts|||||
-|Derivatives|**$**|**0**$|0  $|49|
-|Hedged items||**0**|0|(50)|
-|Excluded from effectiveness assessment||**0**|0|4|
-|Interest rate contracts|||||
-|Derivatives||**(23)**|(65)|(92)|
-|Hedged items||**(25)**|38|108|
-|**Designated as Cash Flow Hedging Instruments**|||||
-|Foreign exchange contracts|||||
-|Amount reclassified from accumulated other comprehensive loss||**(48)**|61|(79)|
-|**Not Designated as Hedging Instruments**|||||
-|Foreign exchange contracts||**367**|(73)|383|
-|Equity contracts||**(177)**|(420)<br>|13|
-|Other contracts||**(15)**|(41)|(85)|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|**Designated as Fair Value Hedging Instruments**||||
+|Foreign exchange contracts||||
+|Derivatives|**$**<br>**0**|$ 0|$ 49|
+|Hedged items|**0**|0|<br>(50)|
+|Excluded from effectiveness assessment|**0**|0|<br>4|
+|Interest rate contracts||||
+|Derivatives|**(23)**|(65)|<br>(92)|
+|Hedged items|**(25)**|38|<br>108|
+|**Designated as Cash Flow Hedging Instruments**||||
+|Foreign exchange contracts<br>Amount reclassified from accumulated other comprehensive loss|**(48)**|61|<br>(79)|
+|**Not Designated as Hedging Instruments**||||
+|Foreign exchange contracts|**367**|(73)|<br>383|
+|Equity contracts|**(177)**|(420)|<br>13|
+|Other contracts|**(15)**|(41)|(85)|
 
 
 
 Gains (losses), net of tax, on derivative instruments recognized in our consolidated comprehensive income statements were as follows: 
 
-|**(In millions)**|||||
-|---|---|---|---|---|
-|**Year Ended June 30,**||**2024**|**2023**|**2022**|
-|**Designated as Cash Flow Hedging Instruments**|||||
-|Foreign exchange contracts|||||
-|Included in effectiveness assessment|**$**<br>|**(14)** $34$||(57)|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|**Designated as Cash Flow Hedging Instruments**||||
+|Foreign exchange contracts||||
+|Included in effectiveness assessment|**$**<br> **(14)**|$34|$ (57)|
 
 
 
-NOTE 6 — INVENTORIES 
+## <u>NOTE 6 — INVENTORIES</u> 
 
 The components of inventories were as follows: 
 
-|**(In millions)**||
-|---|---|
-|**June 30,**<br>**2024**<br>Raw materials<br>**$**<br>**394** <br>Work in process<br>**7**<br>Finishedgoods<br>**845**|**2023**<br>$ 709<br>23<br>1,768|
-|Total<br>**$**<br>**1,246**|$2,500|
+|**(In millions)**|||
+|---|---|---|
+|**June 30,**|**2024**|**2023**|
+|Raw materials|**$**<br>**394**|$ 709|
+|Work in process|**7**|23|
+|Finishedgoods|**845**|1,768|
+|Total|**$**<br>**1,246**|$2,500|
 
 
 
 62 
 
-NOTE 7 — PROPERTY AND EQUIPMENT 
+## <u>NOTE 7 — PROPERTY AND EQUIPMENT</u> 
 
 The components of property and equipment were as follows: 
 
-|**(In millions)**||
-|---|---|
-|**June 30,**<br>**2024**<br>Land<br>**$**<br>**8,163** <br>Buildings and improvements<br>**93,943**<br>Leasehold improvements<br>**9,594**<br>Computer equipment and software<br>**93,780**<br>Furniture and equipment<br>**6,532**|**2023**<br>$ 5,683<br>68,465<br>8,537<br>74,961<br>6,246|
-|Total, at cost<br>**212,012**<br>Accumulated depreciation<br>**(76,421)**|163,892<br>(68,251)|
-|Total, net<br>**$**<br>**135,591**|$ 95,641|
+|**(In millions)**|||
+|---|---|---|
+|**June 30,**|**2024**|**2023**|
+|Land|**$**<br>**8,163**|$ 5,683|
+|Buildings and improvements|**93,943**|68,465|
+|Leasehold improvements|**9,594**|8,537|
+|Computer equipment and software|**93,780**|74,961|
+|Furniture and equipment|**6,532**|6,246|
+|Total, at cost|**212,012**|163,892|
+|Accumulated depreciation|**(76,421)**|(68,251)|
+|Total, net|**$**<br>**135,591**|$ 95,641|
 
 
 
@@ -1314,7 +1499,7 @@ During fiscal years 2024, 2023, and 2022, depreciation expense was $15.2 billion
 
 As of June 30, 2024, we have committed $35.4 billion for the construction of new buildings, building improvements, and leasehold improvements, primarily related to datacenters. 
 
-## NOTE 8 — BUSINESS COMBINATIONS 
+## <u>NOTE 8 — BUSINESS COMBINATIONS</u> 
 
 ## **Activision Blizzard, Inc.** 
 
@@ -1326,7 +1511,14 @@ The major classes of assets and liabilities to which we have preliminarily alloc
 
 |**(In millions)**||
 |---|---|
-|Cash and cash equivalents<br>Goodwill<br>Intangible assets<br>Other assets<br>Long-term debt<br>Long-term income taxes<br>Deferred income taxes<br>Other liabilities|$ 12,976<br>50,969<br>21,969<br>2,501<br>(2,799)<br>(1,914)<br>(4,677)<br>(3,617)|
+|Cash and cash equivalents|$ 12,976|
+|Goodwill|50,969|
+|Intangible assets|21,969|
+|Other assets|2,501|
+|Long-term debt|(2,799)|
+|Long-term income taxes|(1,914)|
+|Deferred income taxes|(4,677)|
+|Other liabilities|(3,617)|
 |Total purchase price|$75,408|
 
 
@@ -1337,21 +1529,22 @@ Goodwill was assigned to our More Personal Computing segment. The goodwill was p
 
 Following are the details of the purchase price allocated to the intangible assets acquired: 
 
-|**(In millions, except average life)**|**Amount**<br>**Weighted**<br>**Average Life**|
-|---|---|
-|Marketing-related<br>Technology-based<br>Customer-related|$ 11,619<br>24 years<br>9,689<br>4 years<br>661<br>4 years<br>$ 21,969<br>15 years|
-|Fair value of intangible assets acquired||
+|**(In millions, except average life)**|**Amount**|**Weighted**<br>**Average Life**|
+|---|---|---|
+|Marketing-related|$ 11,619|24 years|
+|Technology-based|9,689|4 years|
+|Customer-related|661|4 years|
+|Fair value of intangible assets acquired|$ 21,969|15 years|
 
 
 
 Following is the net impact of the Activision Blizzard acquisition on our consolidated income statements since the date of acquisition: 
 
-**(In millions)** 
-
-|**Year Ended June 30,**||**2024**|
-|---|---|---|
-|Revenue|**$**|**5,729**|
-|Operatingloss||**(1,362)**|
+|**(In millions)**|
+|---|
+|**Year Ended June 30,**<br>**2024**|
+|Revenue<br>**$      5,729**|
+|Operatingloss<br>**(1,362)**|
 
 
 
@@ -1359,13 +1552,12 @@ The change of Activision Blizzard content from third-party to first-party is ref
 
 Following are the supplemental consolidated financial results of Microsoft Corporation on an unaudited pro forma basis, as if the acquisition had been consummated on July 1, 2022: 
 
-**(In millions, except per share amounts)** 
-
-|**Year Ended June 30,**||**2024**|**2023**|
-|---|---|---|---|
-|Revenue|**$**|**247,442**$|219,790|
-|Net income||**88,308**|71,383|
-|Diluted earnings pershare||**11.82**|9.55|
+|**(In millions, except per share amounts)**|||
+|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|
+|Revenue|**$     247,442**|$     219,790|
+|Net income|**88,308**|71,383|
+|Diluted earnings pershare|**11.82**|9.55|
 
 
 
@@ -1377,13 +1569,13 @@ On March 4, 2022, we completed our acquisition of Nuance Communications, Inc. (�
 
 The allocation of the purchase price to goodwill was completed as of December 31, 2022. The major classes of assets and liabilities to which we have allocated the purchase price were as follows: 
 
-|**(In millions)**|||
-|---|---|---|
-|Goodwill(a)|$|16,326|
-|Intangible assets||4,365|
-|Other assets||42|
-|Other liabilities(b)||(1,972)|
-|Total|$|18,761|
+|**(In millions)**||
+|---|---|
+|Goodwill<sup>(a)</sup>|$ 16,326|
+|Intangible assets|4,365|
+|Other assets|42|
+|Other liabilities<sup>(b)</sup>|(1,972)|
+|Total|$18,761|
 
 
 
@@ -1395,29 +1587,25 @@ The allocation of the purchase price to goodwill was completed as of December 31
 
 Following are the details of the purchase price allocated to the intangible assets acquired: 
 
-||||**Weighted**|
-|---|---|---|---|
-|**(In millions, except average life)**||**Amount**|**Average Life**|
-|Customer-related|$|2,610|9 years|
-|Technology-based||1,540|5 years|
-|Marketing-related||215|4 years|
-|Total|$|4,365|7 years|
+|**(In millions, except average life)**|**Amount**|**Weighted**<br>**Average Life**|
+|---|---|---|
+|Customer-related|$ 2,610|9 years|
+|Technology-based|1,540|5 years|
+|Marketing-related|215|4 years|
+|Total|$ 4,365|7 years|
 
 
 
-## NOTE 9 — GOODWILL 
+## <u>NOTE 9 — GOODWILL</u> 
 
 Changes in the carrying amount of goodwill were as follows: 
 
-|||**June 30,**|||**June 30,**|||**June 30,**|
-|---|---|---|---|---|---|---|---|---|
-|**(In millions)**||**2022**|**Acquisitions**|**Other**|**2023**|**Acquisitions**|**Other**|**2024**|
-|Productivity and Business|||||||||
-|Processes|$|24,811  $|11 $|(47)**$**|**24,775 $**|**0** **$**|**2** **$**|**24,777**|
-|Intelligent Cloud||30,182|223|64|**30,469**|**0**|**(28)**|**30,441**|
-|More Personal|||||||||
-|Computing||12,531|0|111|**12,642**|**51,235(a) **|**125(a) **|**64,002**|
-|Total|$67,524$||234$|128**$**|**67,886$**|**51,235** **$**|**99** **$**|**119,220**|
+|**(In millions)**|**June 30,**<br>**2022**|**Acquisitions**|**Other**|**June 30,**<br>**2023**|**Acquisitions**|**Other**|**June 30,**<br>**2024**|
+|---|---|---|---|---|---|---|---|
+|Productivity and Busi<br>Processes|ness<br>$ 24,811  $|<br>11 $|(47)**$**|**24,775 $**|<br>**0**|**$**<br>**2**|**$**<br>**24,777**|
+|Intelligent Cloud|30,182|223|64|**30,469**|**0**|<br>**(28)**|<br>**30,441**|
+|More Personal<br>Computing|12,531|0|111|**12,642**|**51,235**<sup>**(a**</sup>|<sup>**)**</sup><br>**125**<sup>**(a)**</sup>|**64,002**|
+|Total|$67,524$|234$|128**$**|**67,886$**|**51,235**|**$**<br>**99**|**$**<br>**119,220**|
 
 
 
@@ -1435,20 +1623,18 @@ No instances of impairment were identified in our May 1, 2024, May 1, 2023, or M
 
 65 
 
-## NOTE 10 — INTANGIBLE ASSETS 
+## <u>NOTE 10 — INTANGIBLE ASSETS</u> 
 
 The components of intangible assets, all of which are finite-lived, were as follows: 
 
-|||**Gross**||**Net**|**Gross**||**Net**|
-|---|---|---|---|---|---|---|---|
-|||**Carrying**|**Accumulated**|**Carrying**|**Carrying**|**Accumulated**|**Carrying**|
-|**(In millions)**||**Amount**|**Amortization**|**Amount**|**Amount**|**Amortization**|**Amount**|
-|**June 30,**||||**2024**|||**2023**|
-|Marketing-related|**$**|**16,500** **$**|**(3,101)** **$**|**13,399**$|4,935  $|(2,473)$|2,462|
-|Technology-based||**21,913**|**(10,741)**|**11,172**|11,245|(7,589)|3,656|
-|Customer-related||**6,038**|**(3,051)**|**2,987**|7,281|(4,047)|3,234|
-|Contract-based||**58**|**(19)**|**39**|29|(15)|14|
-|Total|**$**|**44,509(a)$**|**(16,912)** **$**|**27,597** $|23,490$|(14,124)$|9,366|
+|**(In millions)**|**Gross**<br>**Carrying**<br>**Amount**|**Accumulated**<br>**Amortization**|**Net**<br>**Carrying**<br>**Amount**|**Gross**<br>**Carrying**<br>**Amount**|**Accumulated**<br>**Amortization**|**Net**<br>**Carrying**<br>**Amount**|
+|---|---|---|---|---|---|---|
+|**June 30,**|||**2024**|||**2023**|
+|Marketing-related|**$**<br>**16,500** **$**|**(3,101)** **$**|**13,399**$|4,935  $|(2,473)$|2,462|
+|Technology-based|**21,913**|**(10,741)**|**11,172**|11,245|(7,589)|3,656|
+|Customer-related|**6,038**|**(3,051)**|**2,987**|7,281|(4,047)|3,234|
+|Contract-based|**58**|**(19)**|**39**|29|(15)|14|
+|Total|**$**<br>**44,509**<sup>**(a)**</sup>**$**|**(16,912)** **$**|**27,597** $|23,490$|(14,124)$|9,366|
 
 
 
@@ -1458,9 +1644,14 @@ No material impairments of intangible assets were identified during fiscal years
 
 The components of intangible assets acquired during the periods presented were as follows: 
 
-|**(In millions)**<br>**Amount**<br>**Weighted**<br>**Average Life**|**Amount**<br>**Weighted**<br>**Average Life**|
-|---|---|
-|**Year Ended June 30,**<br>**2024** <br>Marketing-related<br>**$**<br>**11,619** <br>**24 years**<br>Technology-based<br>**10,947**<br>**4 years**<br>Customer-related<br>**660**<br>**4 years**<br>Contract-based<br>**38**<br>**4 years**<br>Total<br>**$**<br>**23,264** <br>**14 years**|**2023**<br>$ 7<br>5 years<br>522<br>7 years<br>0<br>0 years<br>12<br>3 years<br>$ 541<br>6 years|
+|**(In millions)**|**Amount**|**Weighted**<br>**Average Life**|**Amount**|**Weighted**<br>**Average Life**|
+|---|---|---|---|---|
+|**Year Ended June 30,**|**2024**||**2023**||
+|Marketing-related|**$**<br>**11,619**|**24 years**|$ 7|<br>5 years|
+|Technology-based|**10,947**|**4 years**|522|7 years|
+|Customer-related|**660**|**4 years**|0|0 years|
+|Contract-based|**38**|**4 years**|12|3 years|
+|Total|**$**<br>**23,264**|**14 years**|$ 541|<br>6 years|
 
 
 
@@ -1468,22 +1659,22 @@ Intangible assets amortization expense was $4.8 billion, $2.5 billion, and $2.0 
 
 The following table outlines the estimated future amortization expense related to intangible assets held as of June 30, 2024: 
 
-|**(In millions)**|||
-|---|---|---|
-|**Year Ending June 30,**|||
-|2025|**$**|**5,892**|
-|2026||**4,471**|
-|2027||**2,793**|
-|2028||**1,909**|
-|2029||**1,728**|
-|Thereafter||**10,804**|
-|Total|**$**<br>|**27,597**|
+|**(In millions)**||
+|---|---|
+|**Year Ending June 30,**||
+|2025|**$**<br>**5,892**|
+|2026|**4,471**|
+|2027|**2,793**|
+|2028|**1,909**|
+|2029|**1,728**|
+|Thereafter|**10,804**|
+|Total|**$**<br>**27,597**|
 
 
 
 66 
 
-NOTE 11 — DEBT 
+<u>NOTE 11 — DEBT</u> 
 
 ## **Short-term Debt** 
 
@@ -1493,18 +1684,35 @@ As of June 30, 2024, we had $6.7 billion of commercial paper issued and outstand
 
 The components of long-term debt were as follows: 
 
-|**(In millions, issuance by calendaryear)**<br>**Maturities**<br>**(calendaryear)**<br>**Stated Interest**<br>**Rate**<br>**Effective**<br>**Interest**<br>**Rate**|**June 30,**<br>**2024**|**June 30,**<br>**2023**|
-|---|---|---|
-|2009 issuance of $3.8 billion<br>**2039** <br>**5.20%** <br>**5.24%** <br>2010 issuance of $4.8 billion<br>**2040** <br>**4.50%** <br>**4.57%** <br>2011 issuance of $2.3 billion<br>**2041** <br>**5.30%** <br>**5.36%** <br>2012 issuance of $2.3 billion<br>**2042** <br>**3.50%** <br>**3.57%** <br>2013 issuance of $5.2 billion<br>**2043** <br>**3.75%–4.88%** <br>**3.83%–4.92%** <br>2013 issuance of€4.1 billion<br>**2028–2033** <br>**2.63%–3.13%** <br>**2.69%–3.22%** <br>2015 issuance of $23.8 billion<br>**2025–2055** <br>**2.70%–4.75%** <br>**2.77%–4.78%** <br>2016 issuance of $19.8 billion<br>**2026–2056** <br>**2.40%–3.95%** <br>**2.46%–4.03%** <br>2017 issuance of $17.1 billion(a)<br>**2026–2057** <br>**3.30%–4.50%** <br>**3.38%–5.49%** <br>2020 issuance of $10.1 billion(a)<br>**2030–2060** <br>**1.35%–2.68%** <br>**2.53%–5.43%** <br>2021 issuance of $8.2 billion<br>**2052–2062** <br>**2.92%–3.04%** <br>**2.92%–3.04%** <br>2023 issuance of $0.1 billion(a)<br>**2026–2050** <br>**1.35%–4.50%** <br>**5.16%–5.49%** <br>2024 issuance of$3.3 billion(a)<br>**2026–2050** <br>**1.35%–4.50%** <br>**5.16%–5.49%**|**$**<br>**520** <br>**486**<br>**718**<br>**454**<br>**314**<br>**2,465**<br>**9,805**<br>**7,930**<br>**6,833**<br>**10,111**<br>**8,185**<br>**56**<br>**3,344**|$ 520<br>486<br>718<br>454<br>1,814<br>2,509<br>9,805<br>9,430<br>8,945<br>10,000<br>8,185<br>0<br>0|
-|Total face value<br>Unamortized discount and<br>issuance costs<br>Hedge fair value adjustments(b)<br>Premium on debt exchange|**51,221**<br>**(1,227)**<br>**(81)**<br>**(4,976)**|52,866<br>(438)<br>(106)<br>(5,085)|
-|Total debt<br>Currentportion of long-term debt|**44,937**<br>**(2,249)**|47,237<br>(5,247)|
-|Long-term debt|**$**<br>**42,688**|$41,990|
+|**(In millions, issuance by calendaryear)**|**Maturities**<br>**(calendaryear)**|**Stated Interest**<br>**Rate**|**Effective**<br>**Interest**<br>**Rate**|**June 30,**<br>**2024**|**June 30,**<br>**2023**|
+|---|---|---|---|---|---|
+|2009 issuance of $3.8 billion|**2039**|**5.20%**|**5.24%**|**$**<br>**520**|$ 520|
+|2010 issuance of $4.8 billion|**2040**|**4.50%**|**4.57%**|<br>**486**|486|
+|2011 issuance of $2.3 billion|**2041**|**5.30%**|**5.36%**|<br>**718**|718|
+|2012 issuance of $2.3 billion|**2042**|**3.50%**|**3.57%**|<br>**454**|454|
+|2013 issuance of $5.2 billion|**2043**|**3.75%–4.88%**|**3.83%–4.92%**|<br>**314**|1,814|
+|2013 issuance of€4.1 billion|**2028–2033**|**2.63%–3.13%**|**2.69%–3.22%**|<br>**2,465**|2,509|
+|2015 issuance of $23.8 billion|**2025–2055**|**2.70%–4.75%**|**2.77%–4.78%**|<br>**9,805**|9,805|
+|2016 issuance of $19.8 billion|**2026–2056**|**2.40%–3.95%**|**2.46%–4.03%**|<br>**7,930**|9,430|
+|2017 issuance of $17.1 billion<sup>(a)</sup>|**2026–2057**|**3.30%–4.50%**|**3.38%–5.49%**|<br>**6,833**|8,945|
+|2020 issuance of $10.1 billion<sup>(a)</sup>|**2030–2060**|**1.35%–2.68%**|**2.53%–5.43%**|<br>**10,111**|10,000|
+|2021 issuance of $8.2 billion|**2052–2062**|**2.92%–3.04%**|**2.92%–3.04%**|<br>**8,185**|8,185|
+|2023 issuance of $0.1 billion<sup>(a)</sup>|**2026–2050**|**1.35%–4.50%**|**5.16%–5.49%**|<br>**56**|0|
+|2024 issuance of$3.3 billion<sup>(a)</sup>|**2026–2050**|**1.35%–4.50%**|**5.16%–5.49%**|<br>**3,344**|0|
+|Total face value||||**51,221**|52,866|
+|Unamortized discount and||||||
+|issuance costs||||**(1,227)**|(438)|
+|Hedge fair value adjustments<sup>(b)</sup>||||**(81)**|(106)|
+|Premium on debt exchange||||**(4,976)**|(5,085)|
+|Total debt||||**44,937**|47,237|
+|Currentportion of long-term debt||||**(2,249)**|(5,247)|
+|Long-term debt||||**$**<br>**42,688**|$41,990|
 
 
 
 (a) _Includes $3.6 billion of debt at face value related to the Activision Blizzard acquisition, the majority of which was exchanged for Microsoft registered securities in June 2024. See Note 8 – Business Combinations for further information._ 
 
-- (b) _Refer to Note 5 – Derivatives for further information on the interest rate swaps related to fixed-rate debt._ 
+(b) _Refer to Note 5 – Derivatives for further information on the interest rate swaps related to fixed-rate debt._ 
 
 As of June 30, 2024 and 2023, the estimated fair value of long-term debt, including the current portion, was $42.3 billion and $46.2 billion, respectively. The estimated fair values are based on Level 2 inputs. 
 
@@ -1514,44 +1722,50 @@ Debt in the table above is comprised of senior unsecured obligations and ranks e
 
 The following table outlines maturities of our long-term debt, including the current portion, as of June 30, 2024: 
 
-## **(In millions)** 
-
-|**(In millions)**|||
-|---|---|---|
-|**Year Ending June 30,**|||
-|2025|**$**|**2,250**|
-|2026||**3,000**|
-|2027||**9,250**|
-|2028||**0**|
-|2029||**1,876**|
-|Thereafter||**34,845**|
-|Total|**$**<br>|**51,221**|
+|**(In millions)**||
+|---|---|
+|**Year Ending June 30,**||
+|2025|**$**<br>**2,250**|
+|2026|**3,000**|
+|2027|**9,250**|
+|2028|**0**|
+|2029|**1,876**|
+|Thereafter|**34,845**|
+|Total|**$**<br>**51,221**|
 
 
 
-## NOTE 12 — INCOME TAXES 
+## <u>NOTE 12 — INCOME TAXES</u> 
 
 ## **Provision for Income Taxes** 
 
 The components of the provision for income taxes were as follows: 
 
-## **(In millions)** 
-
-|**(In millions)**|||
-|---|---|---|
-|**Year Ended June 30,**<br>**2024**<br>**Current Taxes**<br>U.S. federal<br>**$**<br>**12,165** <br>U.S. state and local<br>**2,366**<br>Foreign<br>**9,858**|**2023**<br>$ 14,009<br>2,322<br>6,678|**2022**<br>$ 8,329<br> <br>1,679<br> <br>6,672|
-|Current taxes<br>**$**<br>**24,389** <br>**Deferred Taxes**<br>U.S. federal<br>**$**<br>**(4,791)** <br>U.S. state and local<br>**(379)**<br>Foreign<br>**432**|$  23,009<br>$ (6,146)<br>(477)<br>564|$  16,680<br>$ (4,815)<br> <br>(1,062)<br> <br>175|
-|Deferred taxes<br>**$**<br>**(4,738)**|$ (6,059)|$ (5,702)|
-|Provision for income taxes<br>**$**<br>**19,651**|$ 16,950|$ 10,978|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|**Current Taxes**||||
+|U.S. federal|**$**<br>**12,165**|$ 14,009|$ 8,329|
+|U.S. state and local|**2,366**|2,322|<br>1,679|
+|Foreign|**9,858**|6,678|<br>6,672|
+|Current taxes|**$**<br>**24,389**|$  23,009|$  16,680|
+|**Deferred Taxes**||||
+|U.S. federal|**$**<br>**(4,791)**|$ (6,146)|$ (4,815)|
+|U.S. state and local|**(379)**|(477)|<br>(1,062)|
+|Foreign|**432**|564|<br>175|
+|Deferred taxes|**$**<br>**(4,738)**|$ (6,059)|$ (5,702)|
+|Provision for income taxes|**$**<br>**19,651**|$ 16,950|$ 10,978|
 
 
 
 U.S. and foreign components of income before income taxes were as follows: 
 
-|**(In millions)**|||
-|---|---|---|
-|**Year Ended June 30,**<br>**2024**<br>U.S.<br>**$**<br>**62,886**<br>Foreign<br>**44,901**|**2023**<br>$ 52,917<br>36,394<br>$89,311|**2022**<br>$ 47,837<br> <br>35,879|
-|Income before income taxes<br>**$**<br>**107,787**||$83,716|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|U.S.|**$**<br>**62,886**|$ 52,917|$ 47,837|
+|Foreign|**44,901**|36,394|<br>35,879|
+|Income before income taxes|**$**<br>**107,787**|$89,311|$83,716|
 
 
 
@@ -1561,9 +1775,19 @@ U.S. and foreign components of income before income taxes were as follows:
 
 The items accounting for the difference between income taxes computed at the U.S. federal statutory rate and our effective rate were as follows: 
 
-|**Year Ended June 30,**<br>**2024**<br>Federal statutory rate<br>**21.0%**<br>Effect of:<br>Foreign earnings taxed at lower rates<br>**(1.4)%**<br>Impact of intangible property transfers<br>**0%**<br>Foreign-derived intangible income deduction<br>**(1.1)%**<br>State income taxes, net of federal benefit<br>**1.5%**<br>Research and development credit<br>**(1.1)%**<br>Excess tax benefits relating to stock-based compensation<br>**(1.1)%**<br>Interest, net<br>**1.1%**<br>Other reconcilingitems,net<br>**(0.7)% **|**2023**<br>21.0%<br>(1.8)%<br>0%<br>(1.3)%<br>1.6%<br>(1.1)%<br>(0.7)%<br>0.8%<br>0.5%|**2022**<br> <br>21.0%<br> <br>(1.3)%<br> <br>(3.9)%<br> <br>(1.1)%<br> <br>1.4%<br> <br>(0.9)%<br> <br>(1.9)%<br> <br>0.5%<br> <br>(0.7)%|
-|---|---|---|
-|Effective rate<br>**18.2%**|19.0%|13.1%|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|---|---|---|---|
+|Federal statutory rate|**21.0%**|21.0%|21.0%|
+|Effect of:||||
+|Foreign earnings taxed at lower rates|**(1.4)%**|(1.8)%|(1.3)%|
+|Impact of intangible property transfers|**0%**|0%|(3.9)%|
+|Foreign-derived intangible income deduction|**(1.1)%**|(1.3)%|(1.1)%|
+|State income taxes, net of federal benefit|**1.5%**|1.6%|1.4%|
+|Research and development credit|**(1.1)%**|(1.1)%|(0.9)%|
+|Excess tax benefits relating to stock-based compensation|**(1.1)%**|(0.7)%|(1.9)%|
+|Interest, net|**1.1%**|0.8%|0.5%|
+|Other reconcilingitems,net|**(0.7)% **|0.5%|(0.7)%|
+|Effective rate|**18.2%**|19.0%|13.1%|
 
 
 
@@ -1579,13 +1803,30 @@ The components of the deferred income tax assets and liabilities were as follows
 
 |**(In millions)**|||
 |---|---|---|
-|**June 30,**<br>**Deferred Income Tax Assets**<br>Stock-based compensation expense<br>Accruals, reserves, and other expenses<br>Loss and credit carryforwards<br>Amortization<br>Leasing liabilities<br>Unearned revenue<br>Book/tax basis differences in investments and debt<br>Capitalized research and development<br>Other|**2024**<br>**$**<br>**765** <br>**4,381**<br>**1,741**<br>**4,159**<br>**6,504**<br>**3,717**<br>**9**<br>**11,442**<br>**426**|**2023**<br>$ 681<br>3,131<br>1,441<br>9,440<br>5,041<br>3,296<br>373<br>6,958<br>489|
-|Deferred income tax assets<br>Less valuation allowance|**33,144**<br>**(1,045)**|30,850<br>(939)|
+|**June 30,**|**2024**|**2023**|
+|**Deferred Income Tax Assets**|||
+|Stock-based compensation expense|**$**<br>**765**|$ 681|
+|Accruals, reserves, and other expenses|**4,381**|3,131|
+|Loss and credit carryforwards|**1,741**|1,441|
+|Amortization|**4,159**|9,440|
+|Leasing liabilities|**6,504**|5,041|
+|Unearned revenue|**3,717**|3,296|
+|Book/tax basis differences in investments and debt|**9**|373|
+|Capitalized research and development|**11,442**|6,958|
+|Other|**426**|489|
+|Deferred income tax assets|**33,144**|30,850|
+|Less valuation allowance|**(1,045)**|(939)|
 |Deferred income tax assets,net of valuation allowance|**$**<br>**32,099**|$ 29,911|
-|**Deferred Income Tax Liabilities**<br>Leasing assets<br>Depreciation<br>Deferred tax on foreign earnings<br>Other|**$**<br>**(6,503)** <br>**(3,940)**<br>**(1,837)**<br>**(167)**|$ (4,680)<br>(2,674)<br>(2,738)<br>(89)|
+|**Deferred Income Tax Liabilities**|||
+|Leasing assets|**$**<br>**(6,503)**|$ (4,680)|
+|Depreciation|**(3,940)**|(2,674)|
+|Deferred tax on foreign earnings|**(1,837)**|(2,738)|
+|Other|**(167)**|(89)|
 |Deferred income tax liabilities|**$**<br>**(12,447)**|$ (10,181)|
-|Net deferred income tax assets<br>**Reported As**<br>Other long-term assets<br>Long-term deferred income tax liabilities|**$**<br>**19,652**|$ 19,730|
-||**$**<br>**22,270** <br>**(2,618)**|$ 20,163<br>(433)|
+|Net deferred income tax assets|**$**<br>**19,652**|$ 19,730|
+|**Reported As**|||
+|Other long-term assets|**$**<br>**22,270**|$ 20,163|
+|Long-term deferred income tax liabilities|**(2,618)**|(433)|
 |Net deferred income tax assets|**$**<br>**19,652**|$19,730|
 
 
@@ -1608,10 +1849,15 @@ As of June 30, 2024, 2023, and 2022, we had accrued interest expense related to 
 
 The aggregate changes in the gross unrecognized tax benefits related to uncertain tax positions were as follows: 
 
-## **(In millions)** 
-
-|**Year Ended June 30,**<br>Beginning unrecognized tax benefits<br>Decreases related to settlements<br>Increases for tax positions related to the current year<br>Increases for tax positions related to prior years(a)<br>Decreases for tax positions related to prior years<br>Decreases due to lapsed statutes of limitations|**2024**<br>**$**<br>**17,120** <br>**(76)**<br>**1,903**<br>**4,289**<br>**(464)**<br>**(12)**|**2023**<br>$ 15,593<br>(329)<br>1,051<br>870<br>(60)<br>(5)|**2022**<br>$ 14,550<br> <br>(317)<br> <br>1,145<br> <br>461<br> <br>(246)<br>0|
+|**(In millions)**||||
 |---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Beginning unrecognized tax benefits|**$**<br>**17,120**|$ 15,593|$ 14,550|
+|Decreases related to settlements|**(76)**|(329)|<br>(317)|
+|Increases for tax positions related to the current year|**1,903**|1,051|<br>1,145|
+|Increases for tax positions related to prior years<sup>(a)</sup>|**4,289**|870|<br>461|
+|Decreases for tax positions related to prior years|**(464)**|(60)|<br>(246)|
+|Decreases due to lapsed statutes of limitations|**(12)**|(5)|0|
 |Ending unrecognized tax benefits|**$**<br>**22,760**|$17,120|$15,593|
 
 
@@ -1624,15 +1870,17 @@ We are subject to income tax in many jurisdictions outside the U.S. Our operatio
 
 71 
 
-NOTE 13 — UNEARNED REVENUE 
+## <u>NOTE 13 — UNEARNED REVENUE</u> 
 
 Unearned revenue by segment was as follows: 
 
-**(In millions)** 
-
-|**June 30,**<br>**2024**<br>Productivity and Business Processes<br>**$**<br>**30,879** <br>Intelligent Cloud<br>**23,117**<br>More Personal Computing<br>**6,188**|**2023**<br>$ 27,572<br>21,563<br>4,678<br> $53,813|
-|---|---|
-|Total<br>**$**<br>**60,184**||
+|**(In millions)**|||
+|---|---|---|
+|**June 30,**|**2024**|**2023**|
+|Productivity and Business Processes|**$**<br>**30,879**|$ 27,572|
+|Intelligent Cloud|**23,117**|21,563|
+|More Personal Computing|**6,188**|4,678|
+|Total|**$**<br>**60,184**|$53,813|
 
 
 
@@ -1640,14 +1888,17 @@ Changes in unearned revenue were as follows:
 
 |**(In millions)**||
 |---|---|
-|**Year Ended June 30, 2024**<br>Balance, beginning of period<br>Deferral of revenue<br>Recognitionofunearnedrevenue|**$**<br>**53,813**<br>**148,701**<br>**(142,330)**|
+|**Year Ended June 30, 2024**||
+|Balance, beginning of period|**$**<br>**53,813**|
+|Deferral of revenue|**148,701**|
+|Recognitionofunearnedrevenue|**(142,330)**|
 |Balance, end of period|**$**<br>**60,184**|
 
 
 
 Revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods, was $275 billion as of June 30, 2024, of which $269 billion is related to the commercial portion of revenue. We expect to recognize approximately 45% of our total company remaining performance obligation revenue over the next 12 months and the remainder thereafter. 
 
-## NOTE 14 — LEASES 
+## <u>NOTE 14 — LEASES</u> 
 
 We have operating and finance leases for datacenters, corporate offices, research and development facilities, Microsoft Experience Centers, and certain equipment. Our leases have remaining lease terms of less than 1 year to 17 years, some of which include options to extend the leases for up to 5 years, and some of which include options to terminate the leases within 1 year. 
 
@@ -1655,24 +1906,26 @@ The components of lease expense were as follows:
 
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Operating lease cost<br>Finance lease cost:<br>Amortization of right-of-use assets<br>Interest on leaseliabilities|**2024**<br>**$**<br>**3,555**|**2023**<br>$  2,875|**2022**<br>$  2,461|
-||**$**<br>**1,800** <br>**734 **|$ 1,352<br>501|$ 980<br> <br>429|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Operating lease cost|**$**<br>**3,555**|$  2,875|$  2,461|
+|Finance lease cost:||||
+|Amortization of right-of-use assets|**$**<br>**1,800**|$ 1,352|$ 980|
+|Interest on leaseliabilities|**734 **|501|<br>429|
 |Total finance lease cost|**$**<br>**2,534**|$ 1,853|$ 1,409|
 
 
 
 Supplemental cash flow information related to leases was as follows: 
 
-|**(In millions)**|||||
-|---|---|---|---|---|
-|**Year Ended June 30,**||**2024**|**2023**|**2022**|
-|Cash paid for amounts included in the measurement of lease liabilities:|||||
-|Operating cash flows from operating leases|**$**|**3,550**$|2,706 $|2,368|
-|Operating cash flows from finance leases||**734**|501|429|
-|Financing cash flows from finance leases||**1,286**|1,056|896|
-|Right-of-use assets obtained in exchange for lease obligations:|||||
-|Operating leases||**6,703**|3,514|5,268|
-|Financeleases||**11,633 **|3,128|4,234|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Cash paid for amounts included in the measurement of lease liabilities:||||
+|Operating cash flows from operating leases|**$**<br>**3,550**|$  2,706|$  2,368|
+|Operating cash flows from finance leases|**734**|501|<br>429|
+|<br>Financing cash flows from finance leases|**1,286**|1,056|<br>896|
+|Right-of-use assets obtained in exchange for lease obligations:<br>Operating leases|**6,703**|3,514|<br>5,268|
+|Financeleases|**11,633 **|3,128|4,234|
 
 
 
@@ -1680,28 +1933,45 @@ Supplemental cash flow information related to leases was as follows:
 
 Supplemental balance sheet information related to leases was as follows: 
 
-## **(In millions, except lease term and discount rate)** 
-
-|**June 30,**<br>**Operating Leases**<br>Operating lease right-of-use assets<br>Other current liabilities<br>Operatinglease liabilities|**2024**<br>**$**<br>**18,961**|**2023**<br>$14,346|
+|**(In millions, except lease term and discount rate)**|||
 |---|---|---|
-||**$**<br>**3,580** <br>**15,497**|$ 2,409<br>12,728|
-|Total operating lease liabilities<br>**Finance Leases**<br>Property and equipment, at cost<br>Accumulated depreciation|**$**<br>**19,077**|$ 15,137|
-||**$**<br>**32,248** <br>**(6,386)**|$ 20,538<br>(4,647)|
-|Property and equipment, net<br>Other current liabilities<br>Other long-term liabilities|**$**<br>**25,862**|$ 15,891|
-||**$**<br>**2,349** <br>**24,796**|$ 1,197<br>15,870|
-|Total finance lease liabilities<br>**Weighted Average Remaining Lease Term**<br>Operating leases<br>Finance leases<br>**Weighted Average Discount Rate**<br>Operating leases<br>Finance leases|**$**<br>**27,145**|$ 17,067|
-||**7 years**<br>**12 years**<br>**3.3%**<br>**3.9%**|8 years<br>11 years<br>2.9%<br>3.4%|
+|**June 30,**|**2024**|**2023**|
+|**Operating Leases**|||
+|Operating lease right-of-use assets|**$**<br>**18,961**|$14,346|
+|Other current liabilities|**$**<br>**3,580**|$ 2,409|
+|Operatinglease liabilities|**15,497**|12,728|
+|Total operating lease liabilities|**$**<br>**19,077**|$ 15,137|
+|**Finance Leases**|||
+|Property and equipment, at cost|**$**<br>**32,248**|$ 20,538|
+|Accumulated depreciation|**(6,386)**|(4,647)|
+|Property and equipment, net|**$**<br>**25,862**|$ 15,891|
+|Other current liabilities|**$**<br>**2,349**|$ 1,197|
+|Other long-term liabilities|**24,796**|15,870|
+|Total finance lease liabilities|**$**<br>**27,145**|$ 17,067|
+|**Weighted Average Remaining Lease Term**|||
+|Operating leases|**7 years**|8 years|
+|Finance leases|**12 years**|11 years|
+|**Weighted Average Discount Rate**|||
+|Operating leases|**3.3%**|2.9%|
+|Finance leases|**3.9%**|3.4%|
 
 
 
 The following table outlines maturities of our lease liabilities as of June 30, 2024: 
 
-## **(In millions)** 
+### **<u>(In millions)</u>** 
 
-|**Year Ending June 30,**<br>**Operating**<br>**Leases**<br>2025<br>**$**<br>**4,124** <br>2026<br>**3,549** <br>2027<br>**2,981** <br>2028<br>**2,405** <br>2029<br>**1,924** <br>Thereafter<br>**6,587**|**Finance**<br>**Leases**<br>**$**<br>**3,311**<br>**3,021**<br>**3,037**<br>**3,026**<br>**2,638**<br>**19,116**|
-|---|---|
-|Total lease payments<br>**21,570** <br>Less imputed interest<br>**(2,493)**|**34,149**<br>**(7,004)**|
-|Total<br>**$**<br>**19,077**|**$**<br>**27,145**|
+|**Year Ending June 30,**|**Operating**<br>**Leases**|**Finance**<br>**Leases**|
+|---|---|---|
+|2025|**$**<br>**4,124**|**$**<br>**3,311**|
+|2026|**3,549**|**3,021**|
+|2027|**2,981**|**3,037**|
+|2028|**2,405**|**3,026**|
+|2029|**1,924**|**2,638**|
+|Thereafter|**6,587**|**19,116**|
+|Total lease payments|**21,570**|**34,149**|
+|Less imputed interest|**(2,493)**|<br>**(7,004)**|
+|Total|**$**<br>**19,077**|**$**<br>**27,145**|
 
 
 
@@ -1709,7 +1979,7 @@ As of June 30, 2024, we had additional operating and finance leases, primarily f
 
 73 
 
-NOTE 15 — CONTINGENCIES 
+<u>NOTE 15 — CONTINGENCIES</u> 
 
 ## **U.S. Cell Phone Litigation** 
 
@@ -1729,7 +1999,7 @@ As of June 30, 2024, we accrued aggregate legal liabilities of $641 million. Whi
 
 74 
 
-NOTE 16 — STOCKHOLDERS’ EQUITY 
+<u>NOTE 16 — STOCKHOLDERS’ EQUITY</u> 
 
 ## **Shares Outstanding** 
 
@@ -1737,7 +2007,10 @@ Shares of common stock outstanding were as follows:
 
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>Balance, beginning of year<br>Issued<br>Repurchased|**2024**<br>**7,432**<br>**34**<br>**(32)**|**2023**<br>7,464<br>37<br>(69)|**2022**<br> <br>7,519<br> <br>40<br>(95)|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Balance, beginning of year|**7,432**|7,464|7,519|
+|Issued|**34**|37|40|
+|Repurchased|**(32)**|(69)|(95)|
 |Balance, end of year|**7,434**|7,432|7,464|
 
 
@@ -1750,10 +2023,14 @@ On September 14, 2021, our Board of Directors approved a share repurchase progra
 
 We repurchased the following shares of common stock under the share repurchase programs: 
 
-|**(In millions)**<br>**Shares**|**Amount**|**Shares**|**Amount**|**Shares**|**Amount**|
-|---|---|---|---|---|---|
-|**Year Ended June 30,**<br>First Quarter<br>**11**<br>Second Quarter<br>**7**<br>Third Quarter<br>**7**<br>FourthQuarter<br>**7**|**2024**<br>**$**<br>**3,560**<br> <br>**2,800**<br> <br>**2,800**<br> <br>**2,800**|17<br>20<br>18<br>14|**2023**<br>$ 4,600<br> <br>4,600<br> <br>4,600<br> <br>4,600|<br>21<br> <br>20<br> <br>26<br> <br>28|**2022**<br>$ 6,200<br> <br>6,233<br> <br>7,800<br> <br>7,800|
-|Total<br>**32**|**$**<br>**11,960**|69|$18,400|<br>95|$28,033|
+|**(In millions)**|**Shares**|**Amount**|**Shares**|**Amount**|**Shares**|**Amount**|
+|---|---|---|---|---|---|---|
+|**Year Ended June 30,**||**2024**||**2023**||**2022**|
+|First Quarter|**11**|**$**<br>**3,560**|17|$ 4,600|<br>21|$ 6,200|
+|Second Quarter|**7**|<br>**2,800**|20|<br>4,600|<br>20|<br>6,233|
+|Third Quarter|**7**|<br>**2,800**|18|<br>4,600|<br>26|<br>7,800|
+|FourthQuarter|**7**|<br>**2,800**|14|<br>4,600|<br>28|<br>7,800|
+|Total|**32**|**$**<br>**11,960**|69|$18,400|<br>95|$28,033|
 
 
 
@@ -1765,32 +2042,51 @@ All repurchases were made using cash resources. Shares repurchased during the fi
 
 Our Board of Directors declared the following dividends: 
 
-|**Declaration Date**<br>**Record Date**<br>**Payment Date**|**Dividend**<br>**Per Share**|**Amount**|
-|---|---|---|
-|**Fiscal Year 2024**<br>**September 19, 2023**<br>**November 16, 2023**<br>**December 14, 2023**<br>**November 28, 2023**<br>**February 15, 2024**<br>**March 14, 2024**<br>**March 12, 2024**<br>**May 16, 2024**<br>**June 13, 2024**<br>**June 12, 2024**<br>**August 15, 2024**<br>**September 12, 2024**|**$**<br>**0.75**<br>**0.75**<br>**0.75**<br>**0.75**|**(In millions)**<br>**$**<br>**5,574**<br> <br>**5,573**<br> <br>**5,574**<br>**5,575**|
-|**Total**<br>**Fiscal Year 2023**<br>September 20, 2022<br>November 17, 2022<br>December 8, 2022<br>November 29, 2022<br>February 16, 2023<br>March 9, 2023<br>March 14, 2023<br>May 18, 2023<br>June 8, 2023<br>June13,2023<br>August17,2023<br>September 14,2023|**$**<br>**3.00**|**$**<br>**22,296**|
-||$ 0.68<br>0.68<br>0.68<br>0.68|$ 5,066<br> <br>5,059<br> <br>5,054<br>5,051|
-|Total|$  2.72|$   20,230|
+|**Declaration Date**|**Record Date**|**Payment Date**|**Dividend**<br>**Per Share**|**Amount**|
+|---|---|---|---|---|
+|**Fiscal Year 2024**||||**(In millions)**|
+|**September 19, 2023**|**November 16, 2023**|**December 14, 2023**|**$**<br>**0.75**|**$**<br>**5,574**|
+|**November 28, 2023**<br>**March 12, 2024**|**February 15, 2024**<br>**May 16, 2024**|**March 14, 2024**<br>**June 13, 2024**|**0.75**<br>**0.75**|<br>**5,573**<br> <br>**5,574**|
+|**June 12, 2024**|**August 15, 2024**|**September 12, 2024**|**0.75**|**5,575**|
+|**Total**|||**$**<br>**3.00**|**$**<br>**22,296**|
+|**Fiscal Year 2023**|||||
+|September 20, 2022|November 17, 2022|December 8, 2022|$ 0.68|$ 5,066|
+|November 29, 2022|February 16, 2023|March 9, 2023|0.68|<br>5,059|
+|March 14, 2023|May 18, 2023|June 8, 2023|0.68|<br>5,054|
+|June13,2023|August17,2023|September 14,2023|0.68|5,051|
+|Total|||$  2.72|$   20,230|
 
 
 
 The dividend declared on June 12, 2024 was included in other current liabilities as of June 30, 2024. 
 
-## NOTE 17 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS) 
+## <u>NOTE 17 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)</u> 
 
 The following table summarizes the changes in accumulated other comprehensive income (loss) by component: 
 
-|**(In millions)**||||
+### **<u>(In millions)</u>** 
+
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
 |---|---|---|---|
-|**Year Ended June 30,**<br>**Derivatives**<br>Balance, beginning of period<br>Unrealized gains (losses), net of tax of**$(4)**, $9, and $(15)<br>Reclassification adjustments for (gains) losses included in other income<br>(expense), net<br>Taxexpense (benefit)includedinprovision for income taxes|**2024**<br>**$**<br>**(27)** <br>**(14)**<br>**48**<br>**(10)**|**2023**<br>$ (13)<br>34<br>(61)<br>13|**2022**<br>$ (19)<br> <br>(57)<br> <br>79<br>(16)|
+|**Derivatives**||||
+|Balance, beginning of period<br>|**$**<br>**(27)**|$ (13)|$ (19)|
+|Unrealized gains (losses), net of tax of**$(4)**, $9, and $(15)<br>|**(14)**|34|<br>(57)|
+|Reclassification adjustments for (gains) losses included in other income<br>(expense), net|**48**|(61)|<br>79|
+|Taxexpense (benefit)includedinprovision for income taxes|**(10)**|13|(16)|
 |Amountsreclassifiedfromaccumulated othercomprehensiveloss|**38 **|(48)|63|
 |Net changerelated to derivatives,net oftaxof**$6**, $(4), and $1|**24**|(14)|6|
 |Balance, end ofperiod|**$**<br>**(3)**|$ (27)|$ (13)|
-|**Investments**<br>Balance, beginning of period<br>Unrealized gains (losses), net of tax of**$247**, $(393), and $(1,440)<br>Reclassification adjustments for losses included in other income<br>(expense), net<br>Taxbenefitincludedinprovision for income taxes|**$**<br>**(3,582)** <br>**915**<br>**53**<br>**(11)**|$ (2,138)<br>(1,523)<br>99<br>(20)|$ 3,222<br> <br>(5,405)<br> <br>57<br>(12)|
+|**Investments**||||
+|Balance, beginning of period|**$**<br>**(3,582)**|$ (2,138)|$ 3,222|
+|Unrealized gains (losses), net of tax of**$247**, $(393), and $(1,440)|**915**|(1,523)|<br>(5,405)|
+|Reclassification adjustments for losses included in other income<br>(expense), net|**53**|99|<br>57|
+|Taxbenefitincludedinprovision for income taxes|**(11)**|(20)|(12)|
 |Amountsreclassifiedfromaccumulated othercomprehensiveloss|**42**|79|45|
 |Net changerelated toinvestments,net oftaxof**$258**, $(373), and $(1,428)|**957 **|(1,444)|(5,360)|
 |Balance, end ofperiod|**$**<br>**(2,625)**|$ (3,582)|$ (2,138)|
-|**Translation Adjustments and Other**<br>Balance, beginning of period<br>Translationadjustments and other,net oftaxof**$0**, $0, and $0|**$**<br>**(2,734)** <br>**(228)**|$ (2,527)<br>(207)|$ (1,381)<br>(1,146)|
+|**Translation Adjustments and Other**||||
+|Balance, beginning of period|**$**<br>**(2,734)**|$ (2,527)|$ (1,381)|
+|Translationadjustments and other,net oftaxof**$0**, $0, and $0|**(228)**|(207)|(1,146)|
 |Balance, end ofperiod|**$**<br>**(2,962)**|$ (2,734)|$ (2,527)|
 |Accumulated other comprehensive loss, end of period|**$**<br>**(5,590)**|$ (6,343)|$ (4,678)|
 
@@ -1798,17 +2094,17 @@ The following table summarizes the changes in accumulated other comprehensive in
 
 76 
 
-NOTE 18 — EMPLOYEE STOCK AND SAVINGS PLANS 
+<u>NOTE 18 — EMPLOYEE STOCK AND SAVINGS PLANS</u> 
 
 We grant stock-based compensation to employees and directors. Awards that expire or are canceled without delivery of shares generally become available for issuance under the plans. We issue new shares of Microsoft common stock to satisfy vesting of awards granted under our stock plans. We also have an ESPP for all eligible employees. 
 
 Stock-based compensation expense and related income tax benefits were as follows: 
 
-|**(In millions)**|||||
-|---|---|---|---|---|
-|**Year Ended June 30,**||**2024**|**2023**|**2022**|
-|Stock-based compensation expense|**$**|**10,734**$|9,611  $|7,502|
-|Income tax benefits related to stock-based compensation||**1,826**|1,651|1,293|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Stock-based compensation expense|**$**<br>**10,734**|$  9,611|$  7,502|
+|Income tax benefits related to stock-based compensation|**1,826**|1,651|<br>1,293|
 
 
 
@@ -1816,27 +2112,32 @@ Stock-based compensation expense and related income tax benefits were as follows
 
 Stock awards entitle the holder to receive shares of Microsoft common stock as the award vests. Stock awards generally vest over a service period of four years or five years. 
 
-## _**Executive Incentive Plan**_ 
+## **_Executive Incentive Plan_** 
 
 Under the Executive Incentive Plan, the Compensation Committee approves stock awards to executive officers and certain senior executives. RSUs generally vest ratably over a service period of four years. PSUs generally vest over a performance period of three years. The number of shares the PSU holder receives is based on the extent to which the corresponding performance goals have been achieved. 
 
-## _**Activity for All Stock Plans**_ 
+## **_Activity for All Stock Plans_** 
 
 The fair value of stock awards was estimated on the date of grant using the following assumptions: 
 
-|**Year ended June 30,**||**2024**|**2023**|**2022**|
-|---|---|---|---|---|
-|Dividends per share (quarterly amounts)|**$**|**0.68 –  0.75**$|0.62 –  0.68  $|0.56 –  0.62|
-|Interestrates||**3.8% – 5.6%**|2.0% – 5.4%|0.03% – 3.6%|
+|**Year ended June 30,**|**2024**|**2023**|**2022**|
+|---|---|---|---|
+|Dividends per share (quarterly amounts)|**$**<br>**0.68 –  0.75**|$ 0.62 –  0.68|$ 0.56 –  0.62|
+|Interestrates|**3.8% – 5.6%**|2.0% – 5.4%|<br>0.03% – 3.6%|
 
 
 
 During fiscal year 2024, the following activity occurred under our stock plans: 
 
-||**Shares**<br>**Weighted Average**<br>**Grant-Date Fair Value**|
-|---|---|
-|**Stock Awards**<br>Nonvested balance, beginning of year<br>Granted(a)<br>Vested<br>Forfeited|**(In millions)** <br>**96** **$**<br>**250.37**<br>**41** <br>**339.46**<br>**(42)** <br>**246.71**<br>**(7)** <br>**270.59**<br>**88** **$**<br>**292.28**|
-|Nonvested balance, end of year||
+||**Shares**|**Weighted Average**<br>**Grant-Date Fair Value**|
+|---|---|---|
+||**(In millions)**||
+|**Stock Awards**|||
+|Nonvested balance, beginning of year|**96**|**$**<br>**250.37**|
+|Granted<sup>(a)</sup>|**41**|**339.46**|
+|Vested|**(42)**|**246.71**|
+|Forfeited|**(7)**|**270.59**|
+|Nonvested balance, end of year|**88**|**$**<br>**292.28**|
 
 
 
@@ -1852,11 +2153,11 @@ We have an ESPP for all eligible employees. Shares of our common stock may be pu
 
 Employees purchased the following shares during the periods presented: 
 
-|**(Shares in millions)**|||||
-|---|---|---|---|---|
-|**Year Ended June 30,**||**2024**|**2023**|**2022**|
-|Shares purchased||**6**|7|7|
-|Averagepriceper share|**$**|**339.46** $|245.59$|259.55|
+|**(Shares in millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Shares purchased|**6**|7|<br>7|
+|Averagepriceper share|**$**<br>**339.46**|$245.59|$259.55|
 
 
 
@@ -1866,7 +2167,7 @@ As of June 30, 2024, 68 million shares of our common stock were reserved for fut
 
 We have savings plans in the U.S. that qualify under Section 401(k) of the Internal Revenue Code, and a number of savings plans in international locations. Eligible U.S. employees may contribute a portion of their salary into the savings plans, subject to certain limitations. We match a portion of each dollar a participant contributes into the plans. Employer-funded retirement benefits for all plans were $1.7 billion, $1.6 billion, and $1.4 billion in fiscal years 2024, 2023, and 2022, respectively, and were expensed as contributed. 
 
-## NOTE 19 — SEGMENT INFORMATION AND GEOGRAPHIC DATA 
+## <u>NOTE 19 — SEGMENT INFORMATION AND GEOGRAPHIC DATA</u> 
 
 In its operation of the business, management, including our chief operating decision maker, who is also our Chief Executive Officer, reviews certain financial information, including segmented internal profit and loss statements prepared on a basis not consistent with GAAP. During the periods presented, we reported our financial performance based on the following segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. 
 
@@ -1914,9 +2215,16 @@ Segment revenue and operating income were as follows during the periods presente
 
 |**(In millions)**||||
 |---|---|---|---|
-|**Year Ended June 30,**<br>**Revenue**<br>Productivity and Business Processes<br>Intelligent Cloud<br>More Personal Computing|**2024**<br>**$**<br>**77,728** <br>**105,362**<br>**62,032**|**2023**<br>$ 69,274<br>87,907<br>54,734|**2022**<br>$ 63,364<br> <br>74,965<br> <br>59,941|
-|Total<br>**Operating Income**<br>Productivity and Business Processes<br>Intelligent Cloud<br>More Personal Computing|**$**<br>**245,122**|$211,915|$198,270|
-||**$**<br>**40,540** <br>**49,584**<br>**19,309**|$ 34,189<br>37,884<br>16,450|$ 29,690<br> <br>33,203<br> <br>20,490|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|**Revenue**||||
+|Productivity and Business Processes|**$**<br>**77,728**|$ 69,274|$ 63,364|
+|Intelligent Cloud|**105,362**|87,907|<br>74,965|
+|More Personal Computing|**62,032**|54,734|<br>59,941|
+|Total|**$**<br>**245,122**|$211,915|$198,270|
+|**Operating Income**||||
+|Productivity and Business Processes|**$**<br>**40,540**|$ 34,189|$ 29,690|
+|Intelligent Cloud|**49,584**|37,884|<br>33,203|
+|More Personal Computing|**19,309**|16,450|<br>20,490|
 |Total|**$**<br>**109,433**|$ 88,523|$ 83,383|
 
 
@@ -1925,21 +2233,33 @@ Segment revenue and operating income were as follows during the periods presente
 
 No sales to an individual customer or country other than the United States accounted for more than 10% of revenue for fiscal years 2024, 2023, or 2022. Revenue, classified by the major geographic areas in which our customers were located, was as follows: 
 
-|**(In millions)**|||
-|---|---|---|
-|**Year Ended June 30,**<br>**2024**<br>United States(a)<br>**$**<br>**124,704** <br>Other countries<br>**120,418**|**2023**<br>$ 106,744<br>105,171|**2022**<br>$ 100,218<br> <br>98,052|
-|Total<br>**$**<br>**245,122**|$211,915|$198,270|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|United States<sup>(a)</sup>|**$**<br>**124,704**|$ 106,744|$ 100,218|
+|Other countries|**120,418**|105,171|<br>98,052|
+|Total|**$**<br>**245,122**|$211,915|$198,270|
 
 
 
-(a) _Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue._ 
+- (a) _Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue._ 
 
 Revenue, classified by significant product and service offerings, was as follows: 
 
-|**(In millions)**|||
-|---|---|---|
-|**Year Ended June 30,**<br>**2024**<br>Server products and cloud services<br>**$**<br>**97,726** <br>Office products and cloud services<br>**54,875**<br>Windows<br>**23,244**<br>Gaming<br>**21,503**<br>LinkedIn<br>**16,372**<br>Search and news advertising<br>**12,576**<br>Enterprise and partner services<br>**7,594**<br>Dynamics products and cloud services<br>**6,481**<br>Devices<br>**4,706**<br>Other<br>**45**|**2023**<br>$ 79,970<br>48,848<br>21,507<br>15,466<br>14,989<br>12,158<br>7,900<br>5,437<br>5,521<br>119|**2022**<br>$ 67,350<br> <br>44,970<br> <br>24,732<br> <br>16,230<br> <br>13,631<br> <br>11,526<br> <br>7,605<br> <br>4,687<br> <br>7,306<br> <br>233|
-|Total<br>**$**<br>**245,122**|$211,915|$198,270|
+|**(In millions)**||||
+|---|---|---|---|
+|**Year Ended June 30,**|**2024**|**2023**|**2022**|
+|Server products and cloud services|**$**<br>**97,726**|$ 79,970|$ 67,350|
+|Office products and cloud services|**54,875**|48,848|<br>44,970|
+|Windows|**23,244**|21,507|<br>24,732|
+|Gaming|**21,503**|15,466|<br>16,230|
+|LinkedIn|**16,372**|14,989|<br>13,631|
+|Search and news advertising|**12,576**|12,158|<br>11,526|
+|Enterprise and partner services|**7,594**|7,900|<br>7,605|
+|Dynamics products and cloud services|**6,481**|5,437|<br>4,687|
+|Devices|**4,706**|5,521|<br>7,306|
+|Other|**45**|119|<br>233|
+|Total|**$**<br>**245,122**|$211,915|$198,270|
 
 
 
@@ -1951,11 +2271,11 @@ Assets are not allocated to segments for internal reporting presentations. A por
 
 Long-lived assets, excluding financial instruments and tax assets, classified by the location of the controlling statutory company and with countries over 10% of the total shown separately, were as follows: 
 
-**(In millions)** 
-
 |**(In millions)**||||
 |---|---|---|---|
-|**June 30,**<br>United States<br>Other countries|**2024**<br>**$**<br>**186,106** <br>**115,263**|**2023**<br>$ 114,380<br>72,859|**2022**<br>$ 106,430<br> <br>59,938|
+|**June 30,**|**2024**|**2023**|**2022**|
+|United States|**$**<br>**186,106**|$ 114,380|$ 106,430|
+|Other countries|**115,263**|72,859|<br>59,938|
 |Total|**$**<br>**301,369**|$187,239|$166,368|
 
 

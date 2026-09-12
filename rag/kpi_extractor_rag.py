@@ -1,11 +1,9 @@
 import os
-from types import SimpleNamespace
-
 from dotenv import load_dotenv
-from pydantic import BaseModel, field_validator, Field
+from pydantic import BaseModel, Field
 
-from llm.azure_openai import get_structured_completion
-from vectorstore.azure_ai_search import AzureAISearchVectorStore
+from llm.llm_client import get_structured_completion
+from vectorstore.chroma_store import ChromaVectorStore, Retriever
 
 load_dotenv()
 
@@ -21,61 +19,13 @@ class FinancialMetrics(BaseModel):
     growth_drivers: str | list | None = Field(None, alias="Top Growth Drivers")
 
 
-class Retriever:
-    def __init__(self, client):
-        self.client = client
-
-    def invoke(
-        self,
-        query: str,
-        company: str | None = None,
-        year: int | None = None,
-        top_k: int = 20
-    ) -> list:
-        """
-        Retrieve relevant chunks from Azure AI Search.
-        """
-        filter_expr = None
-
-        if company and year:
-            filter_expr = (
-                f"company eq '{company}' "
-                f"and year eq '{year}'"
-            )
-
-        results = (
-            self.client.search(
-                search_text=query,
-                top=top_k,
-                filter=filter_expr
-            )
-            if filter_expr
-            else self.client.search(
-                search_text=query,
-                top=top_k
-            )
-        )
-
-        documents = []
-
-        for result in results:
-            content = result.get("content", "")
-            documents.append(
-                SimpleNamespace(
-                    page_content=content
-                )
-            )
-
-        return documents
-
-
 def retrieve_context(
     retriever: Retriever,
     company: str,
-    year: int
+    year: int | str
 ) -> str:
     """
-    Retrieve broad financial context from the vector store.
+    Retrieve broad financial context from the Chroma vector store.
     """
     query = f"""
     Annual report financial statements,
@@ -94,7 +44,7 @@ def retrieve_context(
         year=year,
         top_k=20
     )
-    # print(documents)
+
     return "\n\n".join(
         doc.page_content
         for doc in documents
@@ -103,7 +53,7 @@ def retrieve_context(
 
 def build_extraction_prompt(
     company: str,
-    year: int,
+    year: int | str,
     context: str
 ) -> str:
     """
@@ -136,14 +86,14 @@ Instructions:
 - Financial values must match the report exactly.
 - Risk factors should be concise.
 - Growth drivers should be concise.
-- Return valid JSON only.
+- Return valid JSON matching the requested fields only.
 """
 
 
 def extract_financial_metrics(
     retriever: Retriever,
     company: str,
-    year: int
+    year: int | str
 ) -> dict:
     """
     Extract KPIs using RAG.
@@ -172,15 +122,7 @@ def main() -> None:
     company = "Apple"
     year = 2024
 
-    vector_store = AzureAISearchVectorStore(
-        endpoint=os.getenv("AZURE_SEARCH_ENDPOINT"),
-        api_key=os.getenv("AZURE_SEARCH_API_KEY"),
-        index_name=os.getenv("AZURE_SEARCH_INDEX_NAME")
-    )
-
-    retriever = Retriever(
-        vector_store.client
-    )
+    retriever = Retriever()
 
     results = extract_financial_metrics(
         retriever=retriever,
@@ -195,7 +137,6 @@ def main() -> None:
         print(value)
         print("-" * 80)
 
-
     from database.save_metrics import save_metrics
 
     save_metrics(
@@ -203,6 +144,7 @@ def main() -> None:
         year=year,
         metrics=results
     )
+
 
 if __name__ == "__main__":
     main()

@@ -1,9 +1,9 @@
 import shutil
 from fastapi import APIRouter, File, UploadFile
 from pathlib import Path
-import os
-from langchain_openai import AzureOpenAIEmbeddings
-from vectorstore.azure_ai_search import AzureAISearchVectorStore
+
+from llm.llm_client import get_embedding_client
+from vectorstore.chroma_store import ChromaVectorStore
 from ingestion.ingest_documents import ingest_document
 
 router = APIRouter()
@@ -27,25 +27,15 @@ async def upload_document(
             buffer
         )
 
-        # Initialize embeddings and vector store
-        embeddings = AzureOpenAIEmbeddings(
-            model=os.getenv("AZURE_OPENAI_EMBEDDING_DEPLOYMENT"),
-            azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-            api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-            api_version=os.getenv("AZURE_OPENAI_API_VERSION")
-        )
+    # Initialize embeddings and vector store
+    embeddings = get_embedding_client()
+    vector_store = ChromaVectorStore()
 
-        vector_store = AzureAISearchVectorStore(
-            endpoint=os.getenv("AZURE_SEARCH_ENDPOINT"),
-            api_key=os.getenv("AZURE_SEARCH_API_KEY"),
-            index_name=os.getenv("AZURE_SEARCH_INDEX_NAME")
-        )
-
-        ingest_document(
-            pdf_path=str(file_path),
-            embeddings=embeddings,
-            vector_store=vector_store
-        )
+    ingest_document(
+        pdf_path=str(file_path),
+        embeddings=embeddings,
+        vector_store=vector_store
+    )
 
     return {
         "message": "Document uploaded successfully",
